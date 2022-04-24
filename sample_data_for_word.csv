@@ -1,0 +1,10 @@
+6261,1073,815,4,15,9,53,PER,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,-11,Red Bull,yas_marina,Yas Marina Circuit,HARD->SOFT
+6559,1073,4,11,8,214,36,ALO,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,3,Alpine F1 Team,yas_marina,Yas Marina Circuit,HARD->MEDIUM
+6262,1073,830,1,1,9,13,VER,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,0,Red Bull,yas_marina,Yas Marina Circuit,SOFT->HARD
+6263,1073,830,1,1,9,36,VER,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,0,Red Bull,yas_marina,Yas Marina Circuit,HARD->HARD
+6264,1073,830,1,1,9,53,VER,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,0,Red Bull,yas_marina,Yas Marina Circuit,HARD->SOFT
+6344,1073,832,5,3,6,19,SAI,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,2,Ferrari,yas_marina,Yas Marina Circuit,SOFT->HARD
+6554,1073,852,8,4,213,23,TSU,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,4,AlphaTauri,yas_marina,Yas Marina Circuit,MEDIUM->HARD
+6555,1073,852,8,4,213,53,TSU,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,4,AlphaTauri,yas_marina,Yas Marina Circuit,HARD->SOFT
+6552,1073,842,12,5,213,36,GAS,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,7,AlphaTauri,yas_marina,Yas Marina Circuit,HARD->MEDIUM
+6553,1073,842,12,5,213,54,GAS,2021,Abu Dhabi Grand Prix,24,25.6,53.5,33.0,0.7,False,7,AlphaTauri,yas_marina,Yas Marina Circuit,MEDIUM->SOFT
