@@ -1,0 +1,996 @@
+,raceId,driverCode,teamName,startingGridPosition,position,positionDiff,circuitName,raceName,year,AirTemp,Humidity,TrackTemp,WindSpeed,WasRainingDuringRaceAnyTime,lapTireChange
+15,990,ALO,McLaren,13,7,6,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"14: SOFT->MEDIUM, 39: MEDIUM->SUPERSOFT"
+16,990,BOT,Mercedes,3,2,1,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,20: SUPERSOFT->MEDIUM
+17,990,ERI,Sauber,17,9,8,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,23: SOFT->MEDIUM
+18,990,GAS,Toro Rosso,5,4,1,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"15: SUPERSOFT->SOFT, 34: SOFT->SUPERSOFT"
+19,990,GRO,Haas F1 Team,16,13,3,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"18: SUPERSOFT->SOFT, 30: SOFT->SUPERSOFT, 45: SUPERSOFT->SUPERSOFT"
+20,990,HAM,Mercedes,9,3,6,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,26: SOFT->MEDIUM
+21,990,HAR,Toro Rosso,11,17,-6,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"20: SUPERSOFT->SOFT, 42: SOFT->SUPERSOFT"
+22,990,HUL,Renault,7,6,1,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"15: SUPERSOFT->SOFT, 39: SOFT->SUPERSOFT"
+23,990,LEC,Sauber,19,12,7,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"3: SOFT->MEDIUM, 34: MEDIUM->SUPERSOFT"
+24,990,MAG,Haas F1 Team,6,5,1,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"13: SUPERSOFT->SUPERSOFT, 27: SUPERSOFT->SOFT"
+25,990,OCO,Force India,8,10,-2,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"15: SUPERSOFT->MEDIUM, 35: MEDIUM->SOFT"
+26,990,PER,Force India,12,16,-4,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"9: SOFT->MEDIUM, 32: MEDIUM->SUPERSOFT"
+27,990,SAI,Renault,10,11,-1,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"16: SUPERSOFT->SOFT, 26: SOFT->SOFT"
+28,990,SIR,Williams,18,15,3,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"22: SOFT->MEDIUM, 40: MEDIUM->SUPERSOFT"
+29,990,STR,Williams,20,14,6,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"10: SOFT->SUPERSOFT, 30: MEDIUM->MEDIUM"
+30,990,VAN,McLaren,14,8,6,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,"10: SUPERSOFT->SOFT, 28: SOFT->MEDIUM"
+31,990,VET,Ferrari,1,1,0,Bahrain International Circuit,Bahrain Grand Prix,2018,28.0,46.4,33.5,1.5,False,18: SUPERSOFT->SOFT
+52,992,ALO,McLaren,12,7,5,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"1: nan->SOFT, 40: SOFT->ULTRASOFT"
+53,992,ERI,Sauber,18,11,7,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"1: nan->SOFT, 18: SOFT->ULTRASOFT, 36: ULTRASOFT->ULTRASOFT, 39: ULTRASOFT->ULTRASOFT"
+54,992,GAS,Toro Rosso,17,12,5,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"12: ULTRASOFT->SOFT, 39: SOFT->ULTRASOFT"
+55,992,HAM,Mercedes,2,1,1,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"22: SUPERSOFT->SOFT, 40: SOFT->ULTRASOFT"
+56,992,HAR,Toro Rosso,19,10,9,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"1: nan->ULTRASOFT, 22: ULTRASOFT->SUPERSOFT, 39: SUPERSOFT->ULTRASOFT"
+57,992,LEC,Sauber,13,6,7,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"24: SUPERSOFT->SOFT, 40: SOFT->ULTRASOFT"
+58,992,MAG,Haas F1 Team,15,13,2,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"1: nan->SOFT, 39: SOFT->ULTRASOFT"
+59,992,PER,Force India,8,3,5,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"2: ULTRASOFT->SOFT, 40: SOFT->SUPERSOFT"
+60,992,RAI,Ferrari,6,2,4,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"1: nan->SOFT, 40: SOFT->ULTRASOFT"
+61,992,SAI,Renault,9,5,4,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"15: ULTRASOFT->SOFT, 40: SOFT->ULTRASOFT"
+62,992,STR,Williams,10,8,2,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"23: SUPERSOFT->SOFT, 40: SOFT->ULTRASOFT"
+63,992,VAN,McLaren,16,9,7,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"17: SUPERSOFT->SOFT, 25: SOFT->ULTRASOFT, 39: ULTRASOFT->ULTRASOFT, 46: ULTRASOFT->ULTRASOFT"
+64,992,VET,Ferrari,1,4,-3,Baku City Circuit,Azerbaijan Grand Prix,2018,17.2,46.1,27.1,2.1,False,"30: SUPERSOFT->SOFT, 40: SOFT->ULTRASOFT"
+96,995,BOT,Mercedes,2,2,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,36: ULTRASOFT->SUPERSOFT
+97,995,ERI,Sauber,19,15,4,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,1: nan->SUPERSOFT
+98,995,GAS,Toro Rosso,16,11,5,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,23: HYPERSOFT->SUPERSOFT
+99,995,GRO,Haas F1 Team,20,12,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,48: ULTRASOFT->SUPERSOFT
+100,995,HAM,Mercedes,4,5,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,16: ULTRASOFT->SUPERSOFT
+101,995,HUL,Renault,7,7,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,13: HYPERSOFT->SUPERSOFT
+102,995,LEC,Sauber,13,10,3,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,19: ULTRASOFT->SUPERSOFT
+103,995,MAG,Haas F1 Team,11,13,-2,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,22: ULTRASOFT->SUPERSOFT
+104,995,OCO,Force India,8,9,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,11: HYPERSOFT->SUPERSOFT
+105,995,PER,Force India,10,14,-4,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,"9: HYPERSOFT->SUPERSOFT, 44: SUPERSOFT->SUPERSOFT"
+106,995,RAI,Ferrari,5,6,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,32: ULTRASOFT->SUPERSOFT
+107,995,RIC,Red Bull,6,4,2,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,17: HYPERSOFT->SUPERSOFT
+108,995,SAI,Renault,9,8,1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,14: HYPERSOFT->SUPERSOFT
+109,995,SIR,Williams,18,17,1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,26: SUPERSOFT->ULTRASOFT
+110,995,VAN,McLaren,15,16,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,"1: nan->SUPERSOFT, 48: SUPERSOFT->HYPERSOFT"
+111,995,VER,Red Bull,3,3,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,16: HYPERSOFT->SUPERSOFT
+112,995,VET,Ferrari,1,1,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2018,20.5,28.3,41.5,2.2,False,37: ULTRASOFT->SUPERSOFT
+130,997,ALO,McLaren,13,8,5,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: SUPERSOFT->SOFT
+131,997,ERI,Sauber,20,10,10,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,45: SOFT->SUPERSOFT
+132,997,GAS,Toro Rosso,12,11,1,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: SUPERSOFT->SOFT
+133,997,GRO,Haas F1 Team,5,4,1,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: ULTRASOFT->SOFT
+134,997,LEC,Sauber,18,9,9,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: SUPERSOFT->SOFT
+135,997,MAG,Haas F1 Team,8,5,3,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,28: ULTRASOFT->SOFT
+136,997,OCO,Force India,11,6,5,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: SUPERSOFT->SOFT
+137,997,PER,Force India,16,7,9,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,27: SUPERSOFT->SOFT
+138,997,RAI,Ferrari,3,2,1,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: ULTRASOFT->SOFT
+139,997,SAI,Renault,9,12,-3,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,"15: ULTRASOFT->SOFT, 34: SOFT->SUPERSOFT"
+140,997,SIR,Williams,17,13,4,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,"24: SUPERSOFT->SOFT, 60: SOFT->ULTRASOFT"
+141,997,STR,Williams,14,14,0,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,"15: ULTRASOFT->SOFT, 65: SOFT->SUPERSOFT"
+142,997,VAN,McLaren,15,15,0,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,"1: nan->SOFT, 40: SOFT->SOFT"
+143,997,VER,Red Bull,4,1,3,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: SUPERSOFT->SOFT
+144,997,VET,Ferrari,6,3,3,Red Bull Ring,Austrian Grand Prix,2018,22.7,37.6,48.6,1.5,False,15: ULTRASOFT->SOFT
+145,998,ALO,McLaren,13,8,5,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"13: SOFT->MEDIUM, 32: MEDIUM->SOFT"
+146,998,BOT,Mercedes,4,4,0,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,21: SOFT->MEDIUM
+147,998,GAS,Toro Rosso,14,13,1,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"20: SOFT->MEDIUM, 32: MEDIUM->SOFT"
+148,998,HAM,Mercedes,1,2,-1,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,25: SOFT->MEDIUM
+149,998,HUL,Renault,11,6,5,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,20: MEDIUM->HARD
+150,998,MAG,Haas F1 Team,7,9,-2,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,25: SOFT->MEDIUM
+151,998,OCO,Force India,10,7,3,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,19: SOFT->MEDIUM
+152,998,PER,Force India,12,10,2,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"13: SOFT->MEDIUM, 32: MEDIUM->SOFT"
+153,998,RAI,Ferrari,3,3,0,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"13: SOFT->MEDIUM, 33: MEDIUM->SOFT"
+154,998,RIC,Red Bull,6,5,1,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"18: SOFT->MEDIUM, 30: MEDIUM->SOFT"
+155,998,SIR,Williams,18,14,4,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,21: SOFT->MEDIUM
+156,998,STR,Williams,19,12,7,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,30: MEDIUM->SOFT
+157,998,VAN,McLaren,17,11,6,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"21: SOFT->MEDIUM, 33: MEDIUM->SOFT"
+158,998,VET,Ferrari,2,1,1,Silverstone Circuit,British Grand Prix,2018,26.6,40.0,52.1,1.1,False,"20: SOFT->MEDIUM, 33: MEDIUM->SOFT"
+175,1000,ALO,McLaren,11,8,3,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,39: SOFT->MEDIUM
+176,1000,BOT,Mercedes,2,5,-3,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,15: ULTRASOFT->SOFT
+177,1000,ERI,Sauber,14,15,-1,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,6: ULTRASOFT->MEDIUM
+178,1000,GAS,Toro Rosso,6,6,0,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,32: ULTRASOFT->SOFT
+179,1000,GRO,Haas F1 Team,10,10,0,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,29: ULTRASOFT->SOFT
+180,1000,HAM,Mercedes,1,1,0,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,25: ULTRASOFT->SOFT
+181,1000,HAR,Toro Rosso,8,11,-3,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,24: ULTRASOFT->MEDIUM
+182,1000,HUL,Renault,13,12,1,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,"23: SOFT->MEDIUM, 50: MEDIUM->ULTRASOFT"
+183,1000,MAG,Haas F1 Team,9,7,2,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,31: ULTRASOFT->SOFT
+184,1000,OCO,Force India,18,13,5,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,39: SOFT->ULTRASOFT
+185,1000,PER,Force India,19,14,5,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,22: ULTRASOFT->SOFT
+186,1000,RAI,Ferrari,3,3,0,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,"14: ULTRASOFT->SOFT, 38: SOFT->SOFT"
+187,1000,RIC,Red Bull,12,4,8,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,44: SOFT->ULTRASOFT
+188,1000,SAI,Renault,5,9,-4,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,25: SOFT->MEDIUM
+189,1000,SIR,Williams,20,16,4,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,31: SOFT->MEDIUM
+190,1000,STR,Williams,15,17,-2,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,47: MEDIUM->ULTRASOFT
+191,1000,VET,Ferrari,4,2,2,Hungaroring,Hungarian Grand Prix,2018,34.2,34.3,57.0,0.5,False,39: SOFT->ULTRASOFT
+192,1001,BOT,Mercedes,19,4,15,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 2: SOFT->SUPERSOFT, 29: SUPERSOFT->SOFT"
+193,1001,ERI,Sauber,13,10,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 26: SOFT->SUPERSOFT"
+194,1001,GAS,Toro Rosso,10,9,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 25: SUPERSOFT->SOFT"
+195,1001,GRO,Haas F1 Team,5,7,-2,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 23: SUPERSOFT->SOFT"
+196,1001,HAM,Mercedes,1,2,-1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 21: SUPERSOFT->SOFT"
+197,1001,HAR,Toro Rosso,11,14,-3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 31: SOFT->SUPERSOFT"
+198,1001,MAG,Haas F1 Team,9,8,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 26: SUPERSOFT->SOFT"
+199,1001,OCO,Force India,3,6,-3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 24: SUPERSOFT->SOFT"
+200,1001,PER,Force India,4,5,-1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 25: SUPERSOFT->SOFT"
+201,1001,SAI,Renault,14,11,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->MEDIUM, 22: MEDIUM->SUPERSOFT"
+202,1001,SIR,Williams,16,12,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 24: SOFT->SUPERSOFT"
+203,1001,STR,Williams,17,13,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 23: SOFT->SUPERSOFT"
+204,1001,VAN,McLaren,18,15,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SOFT, 2: SOFT->MEDIUM, 28: MEDIUM->SUPERSOFT"
+205,1001,VER,Red Bull,7,3,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->SUPERSOFT, 26: SUPERSOFT->SOFT"
+206,1001,VET,Ferrari,2,1,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2018,17.2,38.7,29.5,1.1,False,"1: nan->nan, 22: SUPERSOFT->SOFT"
+223,1003,ALO,McLaren,11,7,4,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,38: ULTRASOFT->SOFT
+224,1003,BOT,Mercedes,4,4,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,16: HYPERSOFT->SOFT
+225,1003,ERI,Sauber,14,11,3,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,44: ULTRASOFT->ULTRASOFT
+226,1003,GAS,Toro Rosso,15,13,2,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,26: HYPERSOFT->ULTRASOFT
+227,1003,GRO,Haas F1 Team,8,15,-7,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,16: HYPERSOFT->SOFT
+228,1003,HAM,Mercedes,1,1,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,15: HYPERSOFT->SOFT
+229,1003,HAR,Toro Rosso,17,17,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,"14: HYPERSOFT->ULTRASOFT, 36: ULTRASOFT->HYPERSOFT"
+230,1003,HUL,Renault,10,10,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,15: HYPERSOFT->ULTRASOFT
+231,1003,LEC,Sauber,13,9,4,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,38: ULTRASOFT->HYPERSOFT
+232,1003,MAG,Haas F1 Team,16,18,-2,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,"26: ULTRASOFT->SOFT, 36: SOFT->HYPERSOFT, 48: HYPERSOFT->HYPERSOFT"
+233,1003,PER,Force India,7,16,-9,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,"17: HYPERSOFT->ULTRASOFT, 33: ULTRASOFT->SOFT, 39: SOFT->SOFT"
+234,1003,RAI,Ferrari,5,5,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,22: HYPERSOFT->SOFT
+235,1003,RIC,Red Bull,6,6,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,27: HYPERSOFT->ULTRASOFT
+236,1003,SAI,Renault,12,8,4,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,37: ULTRASOFT->SOFT
+237,1003,SIR,Williams,19,19,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,"3: ULTRASOFT->SOFT, 45: SOFT->SOFT"
+238,1003,STR,Williams,20,14,6,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,40: SOFT->ULTRASOFT
+239,1003,VAN,McLaren,18,12,6,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,43: ULTRASOFT->ULTRASOFT
+240,1003,VER,Red Bull,2,2,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,17: HYPERSOFT->SOFT
+241,1003,VET,Ferrari,3,3,0,Marina Bay Street Circuit,Singapore Grand Prix,2018,29.9,64.1,34.2,1.8,False,14: HYPERSOFT->ULTRASOFT
+260,1005,ALO,McLaren,18,14,4,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,26: SOFT->MEDIUM
+261,1005,BOT,Mercedes,2,2,0,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,23: SOFT->MEDIUM
+262,1005,ERI,Sauber,20,12,8,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,5: SOFT->MEDIUM
+263,1005,GAS,Toro Rosso,7,11,-4,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,29: SUPERSOFT->SOFT
+264,1005,GRO,Haas F1 Team,5,8,-3,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,29: SOFT->MEDIUM
+265,1005,HAM,Mercedes,1,1,0,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,24: SOFT->MEDIUM
+266,1005,HAR,Toro Rosso,6,13,-7,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,28: SUPERSOFT->SOFT
+267,1005,OCO,Force India,11,9,2,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,26: SUPERSOFT->MEDIUM
+268,1005,PER,Force India,9,7,2,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,24: SUPERSOFT->SOFT
+269,1005,RAI,Ferrari,4,5,-1,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,17: SUPERSOFT->MEDIUM
+270,1005,RIC,Red Bull,15,4,11,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,23: SOFT->SUPERSOFT
+271,1005,SAI,Renault,13,10,3,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,32: SOFT->MEDIUM
+272,1005,SIR,Williams,17,16,1,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,"4: SOFT->MEDIUM, 38: MEDIUM->SUPERSOFT"
+273,1005,STR,Williams,14,17,-3,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,"14: SOFT->MEDIUM, 39: MEDIUM->SUPERSOFT"
+274,1005,VAN,McLaren,19,15,4,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,23: SOFT->MEDIUM
+275,1005,VER,Red Bull,3,3,0,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,21: SUPERSOFT->SOFT
+276,1005,VET,Ferrari,8,6,2,Suzuka Circuit,Japanese Grand Prix,2018,28.6,49.4,39.4,1.5,False,26: SUPERSOFT->SOFT
+277,1006,BOT,Mercedes,3,5,-2,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,23: SUPERSOFT->SOFT
+278,1006,ERI,Sauber,16,10,6,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,30: SOFT->SUPERSOFT
+279,1006,GAS,Toro Rosso,19,12,7,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,"10: SUPERSOFT->SOFT, 36: SOFT->ULTRASOFT"
+280,1006,HAM,Mercedes,1,3,-2,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,"11: SUPERSOFT->SOFT, 37: SOFT->SOFT"
+281,1006,HAR,Toro Rosso,20,9,11,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,27: SUPERSOFT->SOFT
+282,1006,HUL,Renault,7,6,1,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,23: ULTRASOFT->SOFT
+283,1006,PER,Force India,10,8,2,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,25: ULTRASOFT->SOFT
+284,1006,RAI,Ferrari,2,1,1,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,21: ULTRASOFT->SOFT
+285,1006,SAI,Renault,11,7,4,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,24: SUPERSOFT->SOFT
+286,1006,SIR,Williams,14,13,1,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,"10: SUPERSOFT->SOFT, 29: SOFT->SUPERSOFT"
+287,1006,STR,Williams,15,14,1,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,"1: SUPERSOFT->SUPERSOFT, 5: SOFT->SOFT, 38: SOFT->ULTRASOFT"
+288,1006,VAN,McLaren,17,11,6,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,"10: SUPERSOFT->SOFT, 40: SOFT->SOFT"
+289,1006,VER,Red Bull,18,2,16,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,22: SOFT->SUPERSOFT
+290,1006,VET,Ferrari,5,4,1,Circuit of the Americas,United States Grand Prix,2018,20.7,41.3,27.6,2.4,False,26: SUPERSOFT->SOFT
+291,1007,BOT,Mercedes,5,5,0,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"11: ULTRASOFT->SUPERSOFT, 48: SUPERSOFT->ULTRASOFT, 62: ULTRASOFT->HYPERSOFT"
+292,1007,ERI,Sauber,10,9,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,16: HYPERSOFT->SUPERSOFT
+293,1007,GAS,Toro Rosso,20,10,10,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"5: HYPERSOFT->SUPERSOFT, 26: SUPERSOFT->SUPERSOFT"
+294,1007,GRO,Haas F1 Team,18,16,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"44: SUPERSOFT->ULTRASOFT, 60: ULTRASOFT->HYPERSOFT"
+295,1007,HAM,Mercedes,3,4,-1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"11: ULTRASOFT->SUPERSOFT, 47: SUPERSOFT->ULTRASOFT"
+296,1007,HAR,Toro Rosso,14,14,0,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"1: SUPERSOFT->ULTRASOFT, 24: ULTRASOFT->SUPERSOFT"
+297,1007,HUL,Renault,7,6,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,12: HYPERSOFT->SUPERSOFT
+298,1007,LEC,Sauber,9,7,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,13: HYPERSOFT->SUPERSOFT
+299,1007,MAG,Haas F1 Team,16,15,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,43: SUPERSOFT->ULTRASOFT
+300,1007,OCO,Force India,11,11,0,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"1: SUPERSOFT->SUPERSOFT, 30: SUPERSOFT->ULTRASOFT"
+301,1007,RAI,Ferrari,6,3,3,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,17: ULTRASOFT->SUPERSOFT
+302,1007,SIR,Williams,19,13,6,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,11: ULTRASOFT->SUPERSOFT
+303,1007,STR,Williams,17,12,5,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"10: ULTRASOFT->ULTRASOFT, 23: ULTRASOFT->SUPERSOFT"
+304,1007,VAN,McLaren,15,8,7,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,12: ULTRASOFT->SUPERSOFT
+305,1007,VER,Red Bull,2,1,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"13: ULTRASOFT->SUPERSOFT, 48: SUPERSOFT->SUPERSOFT"
+306,1007,VET,Ferrari,4,2,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2018,19.2,53.9,35.2,2.3,False,"17: ULTRASOFT->SUPERSOFT, 47: SUPERSOFT->ULTRASOFT"
+322,1010,ALB,Toro Rosso,13,14,-1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,14: SOFT->MEDIUM
+323,1010,BOT,Mercedes,2,1,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,23: SOFT->MEDIUM
+324,1010,GAS,Red Bull,17,11,6,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,37: MEDIUM->SOFT
+325,1010,GIO,Alfa Romeo,14,15,-1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,27: MEDIUM->SOFT
+326,1010,HAM,Mercedes,1,2,-1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,15: SOFT->MEDIUM
+327,1010,HUL,Renault,11,7,4,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,13: SOFT->HARD
+328,1010,KUB,Williams,20,17,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,"1: HARD->MEDIUM, 28: MEDIUM->SOFT, 44: SOFT->SOFT"
+329,1010,KVY,Toro Rosso,15,10,5,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,26: MEDIUM->HARD
+330,1010,LEC,Ferrari,5,5,0,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,28: SOFT->HARD
+331,1010,MAG,Haas F1 Team,7,6,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,14: SOFT->MEDIUM
+332,1010,NOR,McLaren,8,12,-4,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,15: SOFT->HARD
+333,1010,PER,Racing Point,10,13,-3,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,13: SOFT->HARD
+334,1010,RAI,Alfa Romeo,9,8,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,12: SOFT->MEDIUM
+335,1010,RUS,Williams,19,16,3,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,"26: MEDIUM->SOFT, 42: SOFT->HARD"
+336,1010,STR,Racing Point,16,9,7,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,27: MEDIUM->HARD
+337,1010,VER,Red Bull,4,3,1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,25: SOFT->MEDIUM
+338,1010,VET,Ferrari,3,4,-1,Albert Park Grand Prix Circuit,Australian Grand Prix,2019,23.2,72.2,42.9,0.9,False,14: SOFT->MEDIUM
+339,1011,ALB,Toro Rosso,12,9,3,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"9: SOFT->SOFT, 25: SOFT->MEDIUM"
+340,1011,BOT,Mercedes,4,2,2,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"12: SOFT->MEDIUM, 37: MEDIUM->MEDIUM"
+341,1011,GAS,Red Bull,13,8,5,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"9: SOFT->SOFT, 39: SOFT->MEDIUM"
+342,1011,GIO,Alfa Romeo,16,11,5,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"16: SOFT->MEDIUM, 40: MEDIUM->MEDIUM"
+343,1011,HAM,Mercedes,3,1,2,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"13: SOFT->SOFT, 34: SOFT->MEDIUM"
+344,1011,KUB,Williams,20,16,4,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"11: MEDIUM->SOFT, 27: SOFT->MEDIUM"
+345,1011,KVY,Toro Rosso,15,12,3,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"12: SOFT->MEDIUM, 38: MEDIUM->SOFT"
+346,1011,LEC,Ferrari,1,3,-2,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"13: SOFT->MEDIUM, 36: MEDIUM->MEDIUM"
+347,1011,MAG,Haas F1 Team,6,13,-7,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"10: SOFT->MEDIUM, 38: MEDIUM->SOFT"
+348,1011,NOR,McLaren,9,6,3,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"10: SOFT->MEDIUM, 34: MEDIUM->SOFT"
+349,1011,PER,Racing Point,14,10,4,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"8: SOFT->MEDIUM, 33: MEDIUM->MEDIUM"
+350,1011,RAI,Alfa Romeo,8,7,1,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"9: SOFT->MEDIUM, 33: MEDIUM->SOFT"
+351,1011,RUS,Williams,19,15,4,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"12: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+352,1011,STR,Racing Point,18,14,4,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"1: SOFT->MEDIUM, 23: MEDIUM->MEDIUM"
+353,1011,VER,Red Bull,5,4,1,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"11: SOFT->MEDIUM, 32: MEDIUM->MEDIUM"
+354,1011,VET,Ferrari,2,5,-3,Bahrain International Circuit,Bahrain Grand Prix,2019,26.3,53.6,29.4,3.0,False,"14: SOFT->MEDIUM, 35: MEDIUM->MEDIUM, 38: MEDIUM->SOFT"
+355,1012,ALB,Toro Rosso,0,10,-10,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,19: SOFT->HARD
+356,1012,BOT,Mercedes,1,2,-1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"21: MEDIUM->HARD, 36: HARD->MEDIUM"
+357,1012,GAS,Red Bull,6,6,0,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"19: SOFT->HARD, 39: HARD->MEDIUM, 53: MEDIUM->SOFT"
+358,1012,GIO,Alfa Romeo,19,15,4,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"7: SOFT->MEDIUM, 30: MEDIUM->MEDIUM"
+359,1012,GRO,Haas F1 Team,10,11,-1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"8: SOFT->HARD, 35: HARD->MEDIUM"
+360,1012,HAM,Mercedes,2,1,1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"22: MEDIUM->HARD, 36: HARD->MEDIUM"
+361,1012,KUB,Williams,18,17,1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,26: MEDIUM->HARD
+362,1012,LEC,Ferrari,4,5,-1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"22: MEDIUM->HARD, 42: HARD->MEDIUM"
+363,1012,MAG,Haas F1 Team,9,13,-4,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"9: SOFT->HARD, 33: HARD->MEDIUM"
+364,1012,NOR,McLaren,15,18,-3,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"1: MEDIUM->HARD, 17: HARD->MEDIUM, 34: MEDIUM->SOFT"
+365,1012,PER,Racing Point,12,8,4,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,20: MEDIUM->HARD
+366,1012,RAI,Alfa Romeo,13,9,4,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,25: MEDIUM->HARD
+367,1012,RIC,Renault,7,7,0,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,18: SOFT->HARD
+368,1012,RUS,Williams,17,16,1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"22: MEDIUM->HARD, 49: HARD->SOFT"
+369,1012,SAI,McLaren,14,14,0,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"1: MEDIUM->HARD, 36: HARD->SOFT"
+370,1012,STR,Racing Point,16,12,4,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"20: MEDIUM->HARD, 44: HARD->SOFT"
+371,1012,VER,Red Bull,5,4,1,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"17: MEDIUM->HARD, 34: HARD->MEDIUM"
+372,1012,VET,Ferrari,3,3,0,Shanghai International Circuit,Chinese Grand Prix,2019,19.5,43.9,30.6,2.1,False,"18: MEDIUM->HARD, 35: MEDIUM->MEDIUM"
+373,1013,ALB,Toro Rosso,11,11,0,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,12: SOFT->MEDIUM
+374,1013,BOT,Mercedes,1,1,0,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,12: SOFT->MEDIUM
+375,1013,GIO,Alfa Romeo,17,12,5,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,7: SOFT->MEDIUM
+376,1013,HAM,Mercedes,2,2,0,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,13: SOFT->MEDIUM
+377,1013,HUL,Renault,15,14,1,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"8: SOFT->MEDIUM, 34: MEDIUM->SOFT"
+378,1013,KUB,Williams,0,16,-16,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"14: MEDIUM->MEDIUM, 23: MEDIUM->MEDIUM, 42: MEDIUM->SOFT"
+379,1013,LEC,Ferrari,8,5,3,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"34: MEDIUM->SOFT, 47: SOFT->SOFT"
+380,1013,MAG,Haas F1 Team,12,13,-1,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"7: SOFT->MEDIUM, 39: MEDIUM->SOFT"
+381,1013,NOR,McLaren,7,8,-1,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"9: SOFT->MEDIUM, 39: MEDIUM->SOFT"
+382,1013,PER,Racing Point,5,6,-1,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,10: SOFT->MEDIUM
+383,1013,RAI,Alfa Romeo,0,10,-10,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,6: SOFT->MEDIUM
+384,1013,RUS,Williams,16,15,1,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,"25: MEDIUM->MEDIUM, 38: MEDIUM->SOFT"
+385,1013,SAI,McLaren,9,7,2,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,12: SOFT->MEDIUM
+386,1013,STR,Racing Point,13,9,4,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,10: SOFT->MEDIUM
+387,1013,VER,Red Bull,4,4,0,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,14: SOFT->MEDIUM
+388,1013,VET,Ferrari,3,3,0,Baku City Circuit,Azerbaijan Grand Prix,2019,19.9,50.1,43.3,1.4,False,11: SOFT->MEDIUM
+389,1014,ALB,Toro Rosso,11,11,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"25: SOFT->MEDIUM, 45: MEDIUM->MEDIUM"
+390,1014,BOT,Mercedes,1,2,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"26: SOFT->MEDIUM, 45: MEDIUM->SOFT"
+391,1014,GAS,Red Bull,6,6,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"22: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+392,1014,GIO,Alfa Romeo,18,16,2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"6: SOFT->HARD, 41: HARD->SOFT"
+393,1014,GRO,Haas F1 Team,7,10,-3,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"26: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+394,1014,HAM,Mercedes,2,1,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"27: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+395,1014,HUL,Renault,0,13,-13,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,35: MEDIUM->SOFT
+396,1014,KUB,Williams,17,18,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"31: MEDIUM->SOFT, 44: SOFT->MEDIUM"
+397,1014,KVY,Toro Rosso,9,9,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"21: SOFT->MEDIUM, 45: MEDIUM->MEDIUM"
+398,1014,LEC,Ferrari,5,5,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"25: SOFT->HARD, 46: HARD->MEDIUM"
+399,1014,MAG,Haas F1 Team,8,7,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"23: SOFT->MEDIUM, 45: MEDIUM->SOFT"
+400,1014,PER,Racing Point,15,15,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"24: SOFT->MEDIUM, 45: MEDIUM->SOFT"
+401,1014,RAI,Alfa Romeo,14,14,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"28: MEDIUM->HARD, 45: HARD->SOFT"
+402,1014,RIC,Renault,13,12,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"24: SOFT->HARD, 45: HARD->MEDIUM"
+403,1014,RUS,Williams,19,17,2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"32: MEDIUM->SOFT, 44: SOFT->MEDIUM"
+404,1014,SAI,McLaren,12,8,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"24: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+405,1014,VER,Red Bull,4,3,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"20: SOFT->SOFT, 43: SOFT->MEDIUM"
+406,1014,VET,Ferrari,3,4,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2019,20.4,55.1,42.0,1.3,False,"19: SOFT->MEDIUM, 40: MEDIUM->MEDIUM"
+426,1016,BOT,Mercedes,6,4,2,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,"30: MEDIUM->HARD, 67: HARD->SOFT"
+427,1016,GAS,Red Bull,5,8,-3,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,7: SOFT->HARD
+428,1016,GIO,Alfa Romeo,12,13,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,33: HARD->MEDIUM
+429,1016,GRO,Haas F1 Team,14,14,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,34: MEDIUM->HARD
+430,1016,HAM,Mercedes,2,1,1,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,28: MEDIUM->HARD
+431,1016,HUL,Renault,7,7,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,16: SOFT->HARD
+432,1016,KUB,Williams,19,18,1,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,"8: MEDIUM->MEDIUM, 38: HARD->HARD"
+433,1016,KVY,Toro Rosso,10,10,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,12: MEDIUM->HARD
+434,1016,LEC,Ferrari,3,3,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,33: MEDIUM->HARD
+435,1016,MAG,Haas F1 Team,0,17,-17,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,39: HARD->MEDIUM
+436,1016,PER,Racing Point,15,12,3,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,11: MEDIUM->HARD
+437,1016,RAI,Alfa Romeo,16,15,1,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,"6: MEDIUM->HARD, 58: HARD->SOFT"
+438,1016,RIC,Renault,4,6,-2,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,8: SOFT->HARD
+439,1016,RUS,Williams,18,16,2,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,9: MEDIUM->HARD
+440,1016,SAI,McLaren,11,11,0,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,3: SOFT->SOFT
+441,1016,STR,Racing Point,17,9,8,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,45: HARD->MEDIUM
+442,1016,VER,Red Bull,9,5,4,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,48: HARD->MEDIUM
+443,1016,VET,Ferrari,1,2,-1,Circuit Gilles Villeneuve,Canadian Grand Prix,2019,28.3,16.9,51.7,0.6,False,26: MEDIUM->HARD
+444,1017,ALB,Toro Rosso,11,15,-4,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,25: MEDIUM->HARD
+445,1017,BOT,Mercedes,2,2,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,23: MEDIUM->HARD
+446,1017,GAS,Red Bull,9,10,-1,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,17: SOFT->HARD
+447,1017,GIO,Alfa Romeo,10,16,-6,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,"7: SOFT->HARD, 34: HARD->MEDIUM"
+448,1017,GRO,Haas F1 Team,16,20,-4,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,31: HARD->MEDIUM
+449,1017,HAM,Mercedes,1,1,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,24: MEDIUM->HARD
+450,1017,HUL,Renault,13,8,5,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,34: HARD->MEDIUM
+451,1017,KUB,Williams,18,18,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,24: MEDIUM->HARD
+452,1017,KVY,Toro Rosso,19,14,5,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,32: HARD->MEDIUM
+453,1017,LEC,Ferrari,3,3,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,21: MEDIUM->HARD
+454,1017,MAG,Haas F1 Team,15,17,-2,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,16: MEDIUM->HARD
+455,1017,NOR,McLaren,5,9,-4,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,18: MEDIUM->HARD
+456,1017,PER,Racing Point,14,12,2,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,18: MEDIUM->HARD
+457,1017,RAI,Alfa Romeo,12,7,5,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,31: HARD->MEDIUM
+458,1017,RIC,Renault,8,11,-3,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,16: MEDIUM->HARD
+459,1017,RUS,Williams,20,19,1,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,"25: MEDIUM->HARD, 33: HARD->MEDIUM"
+460,1017,SAI,McLaren,6,6,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,19: MEDIUM->HARD
+461,1017,STR,Racing Point,17,13,4,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,39: HARD->MEDIUM
+462,1017,VER,Red Bull,4,4,0,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,20: MEDIUM->HARD
+463,1017,VET,Ferrari,7,5,2,Circuit Paul Ricard,French Grand Prix,2019,25.8,41.7,51.9,2.8,False,"25: MEDIUM->HARD, 51: HARD->SOFT"
+464,1018,ALB,Toro Rosso,18,15,3,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,35: MEDIUM->HARD
+465,1018,BOT,Mercedes,3,3,0,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,21: MEDIUM->HARD
+466,1018,GAS,Red Bull,8,7,1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,25: SOFT->HARD
+467,1018,GIO,Alfa Romeo,7,10,-3,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,24: SOFT->HARD
+468,1018,GRO,Haas F1 Team,11,16,-5,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,34: MEDIUM->HARD
+469,1018,HAM,Mercedes,4,5,-1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,30: MEDIUM->HARD
+470,1018,HUL,Renault,15,13,2,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,26: MEDIUM->HARD
+471,1018,KUB,Williams,17,20,-3,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,19: MEDIUM->HARD
+472,1018,KVY,Toro Rosso,16,17,-1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,32: MEDIUM->HARD
+473,1018,LEC,Ferrari,1,2,-1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,22: SOFT->HARD
+474,1018,MAG,Haas F1 Team,10,19,-9,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,"11: SOFT->HARD, 13: HARD->HARD, 62: HARD->SOFT"
+475,1018,NOR,McLaren,5,6,-1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,25: SOFT->MEDIUM
+476,1018,PER,Racing Point,13,11,2,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,28: MEDIUM->HARD
+477,1018,RAI,Alfa Romeo,6,9,-3,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,23: SOFT->HARD
+478,1018,RIC,Renault,12,12,0,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,46: MEDIUM->SOFT
+479,1018,RUS,Williams,0,18,-18,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,27: MEDIUM->HARD
+480,1018,SAI,McLaren,19,8,11,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,41: MEDIUM->HARD
+481,1018,STR,Racing Point,14,14,0,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,25: MEDIUM->HARD
+482,1018,VER,Red Bull,2,1,1,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,31: MEDIUM->HARD
+483,1018,VET,Ferrari,9,4,5,Red Bull Ring,Austrian Grand Prix,2019,33.3,21.2,51.4,1.8,False,"21: SOFT->HARD, 50: HARD->SOFT"
+484,1019,ALB,Toro Rosso,9,12,-3,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,13: SOFT->MEDIUM
+485,1019,BOT,Mercedes,1,2,-1,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"16: MEDIUM->MEDIUM, 45: MEDIUM->SOFT"
+486,1019,GAS,Red Bull,5,4,1,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,12: MEDIUM->HARD
+487,1019,HAM,Mercedes,2,1,1,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,20: MEDIUM->HARD
+488,1019,HUL,Renault,10,10,0,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,13: SOFT->HARD
+489,1019,KUB,Williams,20,15,5,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,20: MEDIUM->HARD
+490,1019,KVY,Toro Rosso,17,9,8,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"12: SOFT->MEDIUM, 21: MEDIUM->HARD"
+491,1019,LEC,Ferrari,3,3,0,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"13: SOFT->MEDIUM, 21: MEDIUM->HARD"
+492,1019,NOR,McLaren,8,11,-3,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"13: SOFT->MEDIUM, 35: MEDIUM->HARD"
+493,1019,PER,Racing Point,15,17,-2,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"18: MEDIUM->HARD, 24: HARD->SOFT, 46: SOFT->SOFT"
+494,1019,RAI,Alfa Romeo,12,8,4,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,17: MEDIUM->HARD
+495,1019,RIC,Renault,7,7,0,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"12: SOFT->MEDIUM, 20: MEDIUM->HARD"
+496,1019,RUS,Williams,19,14,5,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,21: MEDIUM->HARD
+497,1019,SAI,McLaren,13,6,7,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,20: MEDIUM->HARD
+498,1019,STR,Racing Point,18,13,5,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"13: MEDIUM->HARD, 39: HARD->SOFT"
+499,1019,VER,Red Bull,4,5,-1,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"13: MEDIUM->MEDIUM, 20: MEDIUM->HARD"
+500,1019,VET,Ferrari,6,16,-10,Silverstone Circuit,British Grand Prix,2019,17.9,67.6,27.8,1.3,False,"20: SOFT->HARD, 38: HARD->MEDIUM"
+515,1021,ALB,Toro Rosso,12,10,2,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,28: MEDIUM->HARD
+516,1021,BOT,Mercedes,2,8,-6,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,"5: MEDIUM->HARD, 46: HARD->MEDIUM"
+517,1021,GAS,Red Bull,6,6,0,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,28: MEDIUM->HARD
+518,1021,GIO,Alfa Romeo,17,18,-1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,15: MEDIUM->HARD
+519,1021,HAM,Mercedes,3,1,2,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,"31: MEDIUM->HARD, 48: HARD->HARD"
+520,1021,HUL,Renault,11,12,-1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,36: MEDIUM->SOFT
+521,1021,KUB,Williams,19,19,0,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,18: MEDIUM->HARD
+522,1021,KVY,Toro Rosso,13,15,-2,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,21: MEDIUM->HARD
+523,1021,LEC,Ferrari,4,4,0,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,27: MEDIUM->HARD
+524,1021,MAG,Haas F1 Team,14,13,1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,38: MEDIUM->SOFT
+525,1021,NOR,McLaren,7,9,-2,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,28: SOFT->HARD
+526,1021,PER,Racing Point,16,11,5,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,18: MEDIUM->HARD
+527,1021,RAI,Alfa Romeo,10,7,3,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,29: SOFT->MEDIUM
+528,1021,RIC,Renault,20,14,6,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,46: HARD->SOFT
+529,1021,RUS,Williams,15,16,-1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,16: MEDIUM->HARD
+530,1021,SAI,McLaren,8,5,3,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,29: SOFT->HARD
+531,1021,STR,Racing Point,18,17,1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,"16: MEDIUM->HARD, 50: HARD->SOFT"
+532,1021,VER,Red Bull,1,2,-1,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,"25: MEDIUM->HARD, 67: HARD->SOFT"
+533,1021,VET,Ferrari,5,3,2,Hungaroring,Hungarian Grand Prix,2019,25.1,35.9,43.0,2.1,False,39: MEDIUM->SOFT
+534,1022,ALB,Red Bull,17,5,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,23: MEDIUM->SOFT
+535,1022,BOT,Mercedes,4,3,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,23: SOFT->MEDIUM
+536,1022,GAS,Toro Rosso,13,9,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,13: SOFT->MEDIUM
+537,1022,GIO,Alfa Romeo,18,18,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,29: MEDIUM->SOFT
+538,1022,GRO,Haas F1 Team,9,13,-4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,16: SOFT->MEDIUM
+539,1022,HAM,Mercedes,3,2,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,22: SOFT->MEDIUM
+540,1022,HUL,Renault,12,8,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,"11: SOFT->MEDIUM, 31: MEDIUM->SOFT"
+541,1022,KUB,Williams,0,17,-17,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,31: MEDIUM->SOFT
+542,1022,KVY,Toro Rosso,19,7,12,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,24: MEDIUM->SOFT
+543,1022,LEC,Ferrari,1,1,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,21: SOFT->MEDIUM
+544,1022,MAG,Haas F1 Team,8,12,-4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,25: SOFT->MEDIUM
+545,1022,NOR,McLaren,11,11,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,19: SOFT->MEDIUM
+546,1022,PER,Racing Point,7,6,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,15: SOFT->MEDIUM
+547,1022,RAI,Alfa Romeo,6,16,-10,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,"1: SOFT->MEDIUM, 2: MEDIUM->MEDIUM, 31: MEDIUM->SOFT"
+548,1022,RIC,Renault,10,14,-4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,1: SOFT->MEDIUM
+549,1022,RUS,Williams,14,15,-1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,30: MEDIUM->SOFT
+550,1022,STR,Racing Point,16,10,6,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,"14: SOFT->MEDIUM, 30: MEDIUM->SOFT"
+551,1022,VET,Ferrari,2,4,-2,Circuit de Spa-Francorchamps,Belgian Grand Prix,2019,16.8,60.0,27.1,1.9,False,"15: SOFT->MEDIUM, 33: MEDIUM->SOFT"
+552,1023,ALB,Red Bull,8,6,2,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,26: SOFT->MEDIUM
+553,1023,BOT,Mercedes,3,2,1,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,27: SOFT->MEDIUM
+554,1023,GAS,Toro Rosso,17,11,6,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,28: MEDIUM->SOFT
+555,1023,GIO,Alfa Romeo,10,9,1,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,21: SOFT->MEDIUM
+556,1023,GRO,Haas F1 Team,13,16,-3,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"7: SOFT->MEDIUM, 29: MEDIUM->SOFT"
+557,1023,HAM,Mercedes,2,3,-1,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"19: SOFT->MEDIUM, 49: MEDIUM->SOFT"
+558,1023,HUL,Renault,6,5,1,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,29: SOFT->MEDIUM
+559,1023,KUB,Williams,15,17,-2,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"29: MEDIUM->SOFT, 44: SOFT->MEDIUM"
+560,1023,LEC,Ferrari,1,1,0,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,20: SOFT->HARD
+561,1023,NOR,McLaren,16,10,6,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,23: MEDIUM->HARD
+562,1023,PER,Racing Point,18,7,11,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,28: MEDIUM->SOFT
+563,1023,RAI,Alfa Romeo,0,15,-15,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"19: MEDIUM->MEDIUM, 26: MEDIUM->SOFT"
+564,1023,RIC,Renault,5,4,1,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,30: SOFT->MEDIUM
+565,1023,RUS,Williams,14,14,0,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,23: MEDIUM->HARD
+566,1023,STR,Racing Point,9,12,-3,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"15: SOFT->SOFT, 22: SOFT->MEDIUM"
+567,1023,VER,Red Bull,19,8,11,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"1: MEDIUM->SOFT, 27: SOFT->MEDIUM"
+568,1023,VET,Ferrari,4,13,-9,Autodromo Nazionale di Monza,Italian Grand Prix,2019,19.7,58.2,32.8,0.0,False,"6: SOFT->HARD, 12: HARD->HARD, 41: HARD->MEDIUM"
+569,1024,ALB,Red Bull,6,6,0,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,20: SOFT->HARD
+570,1024,BOT,Mercedes,5,5,0,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,22: SOFT->HARD
+571,1024,GAS,Toro Rosso,11,8,3,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,32: HARD->MEDIUM
+572,1024,GIO,Alfa Romeo,10,10,0,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"34: MEDIUM->HARD, 36: HARD->SOFT"
+573,1024,GRO,Haas F1 Team,17,11,6,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"23: MEDIUM->HARD, 35: HARD->SOFT"
+574,1024,HAM,Mercedes,2,4,-2,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,26: SOFT->HARD
+575,1024,HUL,Renault,8,9,-1,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"1: SOFT->HARD, 36: HARD->MEDIUM"
+576,1024,KUB,Williams,19,16,3,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"21: MEDIUM->HARD, 44: HARD->MEDIUM"
+577,1024,KVY,Toro Rosso,14,15,-1,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"12: MEDIUM->HARD, 36: HARD->SOFT"
+578,1024,LEC,Ferrari,1,2,-1,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,20: SOFT->HARD
+579,1024,MAG,Haas F1 Team,13,17,-4,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"18: MEDIUM->HARD, 56: HARD->SOFT"
+580,1024,NOR,McLaren,9,7,2,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,20: SOFT->HARD
+581,1024,RIC,Renault,20,14,6,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,34: MEDIUM->HARD
+582,1024,SAI,McLaren,7,12,-5,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,35: HARD->MEDIUM
+583,1024,STR,Racing Point,16,13,3,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,"31: MEDIUM->HARD, 41: HARD->SOFT, 44: SOFT->SOFT"
+584,1024,VER,Red Bull,4,3,1,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,19: SOFT->HARD
+585,1024,VET,Ferrari,3,1,2,Marina Bay Street Circuit,Singapore Grand Prix,2019,30.0,70.7,37.3,2.9,False,19: SOFT->HARD
+601,1026,ALB,Red Bull,6,4,2,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"15: SOFT->MEDIUM, 34: MEDIUM->SOFT"
+602,1026,BOT,Mercedes,3,1,2,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"17: SOFT->MEDIUM, 36: MEDIUM->SOFT"
+603,1026,GAS,Toro Rosso,9,7,2,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,18: SOFT->MEDIUM
+604,1026,GIO,Alfa Romeo,11,14,-3,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"18: MEDIUM->HARD, 49: HARD->SOFT"
+605,1026,GRO,Haas F1 Team,10,13,-3,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,16: SOFT->HARD
+606,1026,HAM,Mercedes,4,3,1,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"21: SOFT->MEDIUM, 42: MEDIUM->SOFT"
+607,1026,KUB,Williams,0,16,-16,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"22: MEDIUM->HARD, 33: HARD->MEDIUM"
+608,1026,KVY,Toro Rosso,14,10,4,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,27: SOFT->MEDIUM
+609,1026,LEC,Ferrari,2,6,-4,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"3: SOFT->MEDIUM, 25: MEDIUM->SOFT, 46: SOFT->SOFT"
+610,1026,MAG,Haas F1 Team,19,15,4,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"17: MEDIUM->HARD, 47: HARD->SOFT"
+611,1026,NOR,McLaren,8,11,-3,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"4: SOFT->MEDIUM, 25: MEDIUM->HARD"
+612,1026,PER,Racing Point,17,8,9,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"19: SOFT->MEDIUM, 41: MEDIUM->SOFT"
+613,1026,RAI,Alfa Romeo,13,12,1,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"15: MEDIUM->HARD, 36: HARD->SOFT"
+614,1026,RUS,Williams,18,16,2,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,25: MEDIUM->HARD
+615,1026,SAI,McLaren,7,5,2,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,26: SOFT->MEDIUM
+616,1026,STR,Racing Point,12,9,3,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,18: SOFT->MEDIUM
+617,1026,VET,Ferrari,1,2,-1,Suzuka Circuit,Japanese Grand Prix,2019,21.9,57.6,39.5,5.3,False,"16: SOFT->SOFT, 31: SOFT->MEDIUM"
+618,1027,ALB,Red Bull,5,5,0,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"14: MEDIUM->MEDIUM, 44: MEDIUM->HARD"
+619,1027,BOT,Mercedes,6,3,3,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,36: MEDIUM->HARD
+620,1027,GAS,Toro Rosso,10,9,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"9: SOFT->HARD, 49: HARD->MEDIUM"
+621,1027,GIO,Alfa Romeo,15,14,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,21: MEDIUM->HARD
+622,1027,GRO,Haas F1 Team,18,17,1,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,37: MEDIUM->HARD
+623,1027,HAM,Mercedes,3,1,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,23: MEDIUM->HARD
+624,1027,HUL,Renault,12,10,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,18: MEDIUM->HARD
+625,1027,KUB,Williams,20,18,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"21: MEDIUM->HARD, 60: HARD->MEDIUM"
+626,1027,KVY,Toro Rosso,9,11,-2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"10: SOFT->HARD, 44: HARD->MEDIUM"
+627,1027,LEC,Ferrari,1,4,-3,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"15: MEDIUM->MEDIUM, 43: MEDIUM->HARD"
+628,1027,MAG,Haas F1 Team,17,15,2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,28: MEDIUM->HARD
+629,1027,PER,Racing Point,11,7,4,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,20: MEDIUM->HARD
+630,1027,RIC,Renault,13,8,5,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,50: HARD->MEDIUM
+631,1027,RUS,Williams,19,16,3,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,22: MEDIUM->HARD
+632,1027,SAI,McLaren,7,13,-6,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,"15: SOFT->HARD, 35: HARD->MEDIUM"
+633,1027,STR,Racing Point,16,12,4,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,37: MEDIUM->HARD
+634,1027,VER,Red Bull,4,6,-2,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,5: MEDIUM->HARD
+635,1027,VET,Ferrari,2,2,0,Autódromo Hermanos Rodríguez,Mexican Grand Prix,2019,22.4,48.4,43.4,1.5,False,37: MEDIUM->HARD
+636,1028,ALB,Red Bull,6,5,1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"1: SOFT->MEDIUM, 20: MEDIUM->MEDIUM, 40: MEDIUM->SOFT"
+637,1028,BOT,Mercedes,1,1,0,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"14: MEDIUM->HARD, 35: HARD->MEDIUM"
+638,1028,GAS,Toro Rosso,10,16,-6,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"19: SOFT->HARD, 53: HARD->SOFT"
+639,1028,GIO,Alfa Romeo,16,14,2,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"17: MEDIUM->HARD, 39: HARD->SOFT"
+640,1028,GRO,Haas F1 Team,15,15,0,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,24: MEDIUM->HARD
+641,1028,HAM,Mercedes,5,2,3,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,24: MEDIUM->HARD
+642,1028,HUL,Renault,11,9,2,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"27: HARD->MEDIUM, 39: MEDIUM->SOFT"
+643,1028,KVY,Toro Rosso,13,12,1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"21: HARD->MEDIUM, 39: MEDIUM->SOFT"
+644,1028,LEC,Ferrari,4,4,0,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"20: MEDIUM->HARD, 42: HARD->SOFT"
+645,1028,MAG,Haas F1 Team,12,18,-6,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"18: MEDIUM->HARD, 40: HARD->SOFT"
+646,1028,NOR,McLaren,8,7,1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"19: SOFT->HARD, 42: HARD->MEDIUM"
+647,1028,PER,Racing Point,0,10,-10,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,24: MEDIUM->HARD
+648,1028,RAI,Alfa Romeo,17,11,6,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"18: SOFT->HARD, 40: HARD->SOFT"
+649,1028,RIC,Renault,9,6,3,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,21: SOFT->HARD
+650,1028,RUS,Williams,18,17,1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"23: MEDIUM->HARD, 46: HARD->SOFT"
+651,1028,SAI,McLaren,7,8,-1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,18: SOFT->HARD
+652,1028,STR,Racing Point,14,13,1,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"9: MEDIUM->HARD, 29: HARD->SOFT"
+653,1028,VER,Red Bull,3,3,0,Circuit of the Americas,United States Grand Prix,2019,20.8,27.6,30.9,0.5,False,"13: MEDIUM->HARD, 34: HARD->MEDIUM"
+654,1029,ALB,Red Bull,5,14,-9,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"24: SOFT->MEDIUM, 50: MEDIUM->SOFT"
+655,1029,GAS,Toro Rosso,6,2,4,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"22: SOFT->MEDIUM, 47: MEDIUM->SOFT"
+656,1029,GIO,Alfa Romeo,12,5,7,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"20: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+657,1029,GRO,Haas F1 Team,7,13,-6,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"26: SOFT->MEDIUM, 65: MEDIUM->SOFT"
+658,1029,HAM,Mercedes,3,7,-4,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"20: SOFT->SOFT, 43: SOFT->MEDIUM, 66: MEDIUM->SOFT"
+659,1029,HUL,Renault,13,15,-2,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"27: MEDIUM->HARD, 44: HARD->SOFT, 53: SOFT->SOFT"
+660,1029,KUB,Williams,19,16,3,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"20: MEDIUM->MEDIUM, 36: MEDIUM->HARD, 53: HARD->SOFT, 66: SOFT->SOFT"
+661,1029,KVY,Toro Rosso,16,10,6,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"23: MEDIUM->HARD, 46: SOFT->SOFT"
+662,1029,LEC,Ferrari,14,18,-4,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"29: MEDIUM->HARD, 54: HARD->SOFT"
+663,1029,MAG,Haas F1 Team,9,11,-2,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"27: SOFT->MEDIUM, 53: MEDIUM->SOFT"
+664,1029,NOR,McLaren,10,8,2,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"27: SOFT->HARD, 53: HARD->MEDIUM"
+665,1029,PER,Racing Point,15,9,6,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"17: SOFT->MEDIUM, 45: MEDIUM->SOFT"
+666,1029,RAI,Alfa Romeo,8,4,4,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"21: SOFT->MEDIUM, 47: MEDIUM->SOFT"
+667,1029,RIC,Renault,11,6,5,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"8: MEDIUM->SOFT, 40: SOFT->SOFT"
+668,1029,RUS,Williams,18,12,6,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"23: MEDIUM->MEDIUM, 54: MEDIUM->SOFT, 66: SOFT->SOFT"
+669,1029,SAI,McLaren,20,3,17,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,29: SOFT->MEDIUM
+670,1029,STR,Racing Point,17,19,-2,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"28: SOFT->MEDIUM, 53: MEDIUM->SOFT"
+671,1029,VER,Red Bull,1,1,0,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"21: SOFT->SOFT, 44: SOFT->MEDIUM, 54: MEDIUM->SOFT"
+672,1029,VET,Ferrari,2,17,-15,Autódromo José Carlos Pace,Brazilian Grand Prix,2019,21.2,60.2,48.2,1.3,False,"25: SOFT->MEDIUM, 49: MEDIUM->SOFT"
+673,1030,ALB,Red Bull,5,6,-1,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,13: MEDIUM->HARD
+674,1030,BOT,Mercedes,20,4,16,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,29: MEDIUM->HARD
+675,1030,GIO,Alfa Romeo,16,16,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,"8: SOFT->HARD, 26: HARD->MEDIUM"
+676,1030,GRO,Haas F1 Team,15,15,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,18: MEDIUM->HARD
+677,1030,HAM,Mercedes,1,1,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,26: MEDIUM->HARD
+678,1030,HUL,Renault,9,12,-3,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,18: SOFT->MEDIUM
+679,1030,KUB,Williams,19,19,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,24: HARD->MEDIUM
+680,1030,KVY,Toro Rosso,13,9,4,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,40: HARD->MEDIUM
+681,1030,LEC,Ferrari,3,3,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,"12: MEDIUM->HARD, 38: HARD->SOFT"
+682,1030,MAG,Haas F1 Team,14,14,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,20: MEDIUM->HARD
+683,1030,NOR,McLaren,6,8,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,8: SOFT->HARD
+684,1030,PER,Racing Point,10,7,3,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,37: MEDIUM->HARD
+685,1030,RAI,Alfa Romeo,17,13,4,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,22: MEDIUM->HARD
+686,1030,RIC,Renault,7,11,-4,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,"11: SOFT->HARD, 42: HARD->SOFT"
+687,1030,RUS,Williams,18,17,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,32: HARD->MEDIUM
+688,1030,SAI,McLaren,8,10,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,"12: SOFT->HARD, 41: HARD->MEDIUM"
+689,1030,VER,Red Bull,2,2,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,25: MEDIUM->HARD
+690,1030,VET,Ferrari,4,5,-1,Yas Marina Circuit,Abu Dhabi Grand Prix,2019,27.6,54.6,32.5,1.6,False,"12: SOFT->HARD, 38: HARD->MEDIUM"
+691,1031,ALB,Red Bull,4,13,-9,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: SOFT->SOFT, 56: SOFT->SOFT"
+692,1031,BOT,Mercedes,1,1,0,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 56: HARD->HARD"
+693,1031,GAS,AlphaTauri,12,7,5,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 56: HARD->HARD"
+694,1031,GIO,Alfa Romeo,18,9,9,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"25: HARD->HARD, 55: SOFT->SOFT, 56: SOFT->SOFT"
+695,1031,HAM,Mercedes,5,4,1,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 56: HARD->HARD"
+696,1031,KVY,AlphaTauri,13,12,1,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: SOFT->UNKNOWN, 56: SOFT->SOFT"
+697,1031,LAT,Williams,20,11,9,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: UNKNOWN->UNKNOWN, 56: UNKNOWN->SOFT"
+698,1031,LEC,Ferrari,7,2,5,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: MEDIUM->UNKNOWN, 56: MEDIUM->MEDIUM"
+699,1031,NOR,McLaren,3,3,0,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: MEDIUM->MEDIUM, 56: MEDIUM->MEDIUM"
+700,1031,OCO,Renault,14,8,6,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 56: HARD->HARD"
+701,1031,PER,Racing Point,6,6,0,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: MEDIUM->MEDIUM, 56: MEDIUM->MEDIUM"
+702,1031,SAI,McLaren,8,5,3,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 52: MEDIUM->MEDIUM, 56: MEDIUM->MEDIUM"
+703,1031,VET,Ferrari,11,10,1,Red Bull Ring,Austrian Grand Prix,2020,27.5,35.1,55.6,1.7,False,"26: HARD->HARD, 51: SOFT->UNKNOWN, 56: SOFT->SOFT"
+740,1034,ALB,Red Bull,12,8,4,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,"6: MEDIUM->HARD, 30: HARD->MEDIUM"
+741,1034,BOT,Mercedes,2,11,-9,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,"13: MEDIUM->HARD, 50: HARD->SOFT"
+742,1034,GAS,AlphaTauri,11,7,4,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: MEDIUM->HARD
+743,1034,GIO,Alfa Romeo,15,14,1,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: MEDIUM->HARD
+744,1034,GRO,Haas F1 Team,17,16,1,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,36: MEDIUM->HARD
+745,1034,HAM,Mercedes,1,1,0,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,13: MEDIUM->HARD
+746,1034,LAT,Williams,18,15,3,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: MEDIUM->HARD
+747,1034,LEC,Ferrari,4,3,1,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,13: MEDIUM->HARD
+748,1034,NOR,McLaren,5,5,0,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: SOFT->HARD
+749,1034,OCO,Renault,9,6,3,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: SOFT->HARD
+750,1034,RAI,Alfa Romeo,16,17,-1,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,"12: MEDIUM->HARD, 47: HARD->SOFT"
+751,1034,RIC,Renault,8,4,4,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: SOFT->HARD
+752,1034,RUS,Williams,20,12,8,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: MEDIUM->HARD
+753,1034,SAI,McLaren,7,13,-6,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,"13: SOFT->HARD, 51: HARD->MEDIUM"
+754,1034,STR,Racing Point,6,9,-3,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,13: MEDIUM->HARD
+755,1034,VER,Red Bull,3,2,1,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,"13: MEDIUM->HARD, 50: HARD->SOFT"
+756,1034,VET,Ferrari,10,10,0,Silverstone Circuit,British Grand Prix,2020,20.8,44.6,40.7,3.2,False,12: SOFT->HARD
+757,1035,ALB,Red Bull,9,5,4,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"6: MEDIUM->HARD, 30: HARD->HARD"
+758,1035,BOT,Mercedes,1,3,-2,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"13: MEDIUM->HARD, 32: HARD->HARD"
+759,1035,GAS,AlphaTauri,7,11,-4,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"7: MEDIUM->HARD, 23: HARD->HARD"
+760,1035,GIO,Alfa Romeo,19,17,2,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"7: MEDIUM->HARD, 33: HARD->MEDIUM"
+761,1035,GRO,Haas F1 Team,13,16,-3,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"17: MEDIUM->HARD, 38: HARD->HARD"
+762,1035,HAM,Mercedes,2,2,0,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"14: MEDIUM->HARD, 41: HARD->HARD"
+763,1035,HUL,Racing Point,3,7,-4,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"15: MEDIUM->HARD, 30: HARD->HARD, 44: HARD->SOFT"
+764,1035,KVY,AlphaTauri,16,10,6,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"19: HARD->UNKNOWN, 35: HARD->UNKNOWN"
+765,1035,LAT,Williams,18,19,-1,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"9: MEDIUM->HARD, 26: HARD->HARD, 46: HARD->MEDIUM"
+766,1035,LEC,Ferrari,8,4,4,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,18: MEDIUM->HARD
+767,1035,NOR,McLaren,10,9,1,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"12: MEDIUM->HARD, 29: HARD->HARD"
+768,1035,OCO,Renault,14,8,6,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,22: MEDIUM->HARD
+769,1035,RAI,Alfa Romeo,20,15,5,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,26: HARD->MEDIUM
+770,1035,RIC,Renault,5,14,-9,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"14: MEDIUM->MEDIUM, 26: MEDIUM->HARD, 35: HARD->MEDIUM"
+771,1035,RUS,Williams,15,18,-3,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"8: MEDIUM->HARD, 24: HARD->HARD, 39: HARD->MEDIUM"
+772,1035,SAI,McLaren,12,13,-1,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"22: HARD->MEDIUM, 34: MEDIUM->HARD"
+773,1035,STR,Racing Point,6,6,0,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"18: MEDIUM->HARD, 31: HARD->HARD"
+774,1035,VER,Red Bull,4,1,3,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"26: HARD->MEDIUM, 32: MEDIUM->HARD"
+775,1035,VET,Ferrari,11,12,-1,Silverstone Circuit,70th Anniversary Grand Prix,2020,23.7,63.0,41.5,2.3,False,"22: HARD->HARD, 33: HARD->MEDIUM"
+776,1036,ALB,Red Bull,6,8,-2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"17: SOFT->HARD, 39: HARD->MEDIUM"
+777,1036,BOT,Mercedes,2,3,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"23: SOFT->MEDIUM, 48: MEDIUM->SOFT, 64: SOFT->MEDIUM"
+778,1036,GAS,AlphaTauri,10,9,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"21: SOFT->MEDIUM, 42: MEDIUM->MEDIUM"
+779,1036,GIO,Alfa Romeo,20,16,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"21: MEDIUM->MEDIUM, 45: MEDIUM->SOFT"
+780,1036,GRO,Haas F1 Team,17,19,-2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"32: MEDIUM->SOFT, 62: SOFT->SOFT"
+781,1036,HAM,Mercedes,1,1,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"23: SOFT->MEDIUM, 50: MEDIUM->MEDIUM"
+782,1036,KVY,AlphaTauri,12,12,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"21: SOFT->MEDIUM, 45: MEDIUM->MEDIUM"
+783,1036,LAT,Williams,19,18,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"28: MEDIUM->UNKNOWN, 49: MEDIUM->SOFT"
+784,1036,MAG,Haas F1 Team,16,15,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,28: SOFT->MEDIUM
+785,1036,NOR,McLaren,8,10,-2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"21: SOFT->SOFT, 44: SOFT->MEDIUM"
+786,1036,OCO,Renault,15,13,2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,34: MEDIUM->SOFT
+787,1036,PER,Racing Point,4,5,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,29: SOFT->MEDIUM
+788,1036,RAI,Alfa Romeo,14,14,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"20: MEDIUM->MEDIUM, 44: MEDIUM->SOFT"
+789,1036,RIC,Renault,13,11,2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,35: MEDIUM->SOFT
+790,1036,RUS,Williams,18,17,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"19: SOFT->MEDIUM, 35: MEDIUM->MEDIUM"
+791,1036,SAI,McLaren,7,6,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"22: SOFT->SOFT, 41: SOFT->MEDIUM"
+792,1036,STR,Racing Point,5,4,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"27: SOFT->MEDIUM, 42: MEDIUM->SOFT"
+793,1036,VER,Red Bull,3,2,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,"21: SOFT->MEDIUM, 41: MEDIUM->MEDIUM"
+794,1036,VET,Ferrari,11,7,4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2020,28.8,58.3,43.9,0.9,False,29: MEDIUM->SOFT
+795,1037,ALB,Red Bull,5,6,-1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: SOFT->MEDIUM
+796,1037,BOT,Mercedes,2,2,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: MEDIUM->HARD
+797,1037,GAS,AlphaTauri,12,8,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,26: HARD->MEDIUM
+798,1037,GRO,Haas F1 Team,17,15,2,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,10: MEDIUM->HARD
+799,1037,HAM,Mercedes,1,1,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: MEDIUM->HARD
+800,1037,KVY,AlphaTauri,11,11,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: MEDIUM->HARD
+801,1037,LAT,Williams,19,16,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,"10: MEDIUM->HARD, 30: HARD->MEDIUM"
+802,1037,LEC,Ferrari,13,14,-1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,"10: SOFT->HARD, 24: HARD->MEDIUM"
+803,1037,MAG,Haas F1 Team,20,17,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,"10: MEDIUM->HARD, 35: HARD->SOFT"
+804,1037,NOR,McLaren,10,7,3,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: SOFT->HARD
+805,1037,OCO,Renault,6,5,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: SOFT->HARD
+806,1037,PER,Racing Point,8,10,-2,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,18: SOFT->HARD
+807,1037,RAI,Alfa Romeo,16,12,4,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,10: MEDIUM->HARD
+808,1037,RIC,Renault,4,4,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: SOFT->HARD
+809,1037,STR,Racing Point,9,9,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: SOFT->HARD
+810,1037,VER,Red Bull,3,3,0,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: MEDIUM->HARD
+811,1037,VET,Ferrari,14,13,1,Circuit de Spa-Francorchamps,Belgian Grand Prix,2020,17.5,60.4,27.4,1.0,False,11: MEDIUM->HARD
+812,1038,ALB,Red Bull,9,15,-6,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->HARD"
+813,1038,BOT,Mercedes,2,5,-3,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+814,1038,GAS,AlphaTauri,10,1,9,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"19: SOFT->HARD, 26: HARD->MEDIUM"
+815,1038,GIO,Alfa Romeo,18,16,2,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"20: MEDIUM->HARD, 26: HARD->SOFT, 30: SOFT->SOFT"
+816,1038,GRO,Haas F1 Team,16,12,4,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: MEDIUM->HARD, 26: HARD->HARD"
+817,1038,HAM,Mercedes,1,7,-6,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"26: MEDIUM->HARD, 20: SOFT->MEDIUM, 28: HARD->HARD"
+818,1038,KVY,AlphaTauri,11,9,2,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: HARD->MEDIUM, 26: MEDIUM->MEDIUM"
+819,1038,LAT,Williams,20,11,9,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"16: MEDIUM->HARD, 26: HARD->MEDIUM"
+820,1038,NOR,McLaren,6,4,2,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+821,1038,OCO,Renault,12,8,4,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->SOFT"
+822,1038,PER,Racing Point,4,10,-6,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+823,1038,RAI,Alfa Romeo,14,13,1,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"18: MEDIUM->HARD, 26: HARD->SOFT"
+824,1038,RIC,Renault,7,6,1,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+825,1038,RUS,Williams,19,14,5,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: MEDIUM->HARD, 26: HARD->MEDIUM"
+826,1038,SAI,McLaren,3,2,1,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,"22: SOFT->MEDIUM, 26: MEDIUM->MEDIUM"
+827,1038,STR,Racing Point,8,3,5,Autodromo Nazionale di Monza,Italian Grand Prix,2020,27.8,40.0,45.2,2.3,False,26: SOFT->MEDIUM
+828,1039,ALB,Red Bull,4,3,1,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: SOFT->SOFT, 8: SOFT->SOFT, 32: SOFT->MEDIUM, 43: MEDIUM->SOFT, 45: SOFT->SOFT"
+829,1039,BOT,Mercedes,2,2,0,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: SOFT->MEDIUM, 7: SOFT->SOFT, 31: MEDIUM->HARD, 43: HARD->MEDIUM, 45: MEDIUM->SOFT"
+830,1039,GRO,Haas F1 Team,15,12,3,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: MEDIUM->HARD, 8: HARD->SOFT, 28: SOFT->HARD, 42: HARD->SOFT, 44: SOFT->SOFT"
+831,1039,HAM,Mercedes,1,1,0,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: SOFT->MEDIUM, 7: SOFT->SOFT, 32: MEDIUM->HARD, 44: HARD->MEDIUM, 45: MEDIUM->SOFT"
+832,1039,KVY,AlphaTauri,12,7,5,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: MEDIUM->SOFT, 7: MEDIUM->MEDIUM, 29: SOFT->MEDIUM, 43: MEDIUM->SOFT, 45: SOFT->SOFT"
+833,1039,LEC,Ferrari,5,8,-3,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: SOFT->SOFT, 7: SOFT->SOFT, 21: SOFT->HARD, 37: HARD->MEDIUM, 45: MEDIUM->SOFT"
+834,1039,NOR,McLaren,11,6,5,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: SOFT->SOFT, 8: SOFT->SOFT, 29: SOFT->MEDIUM, 43: MEDIUM->SOFT, 45: SOFT->SOFT"
+835,1039,PER,Racing Point,7,5,2,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: SOFT->SOFT, 8: SOFT->SOFT, 28: SOFT->MEDIUM, 43: MEDIUM->SOFT, 45: SOFT->SOFT"
+836,1039,RAI,Alfa Romeo,13,9,4,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: MEDIUM->MEDIUM, 7: MEDIUM->MEDIUM, 1: MEDIUM->MEDIUM, 27: MEDIUM->HARD, 42: HARD->SOFT, 44: SOFT->SOFT"
+837,1039,RIC,Renault,8,4,4,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: SOFT->SOFT, 8: SOFT->SOFT, 27: SOFT->MEDIUM, 43: MEDIUM->SOFT, 45: SOFT->SOFT"
+838,1039,RUS,Williams,18,11,7,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"8: MEDIUM->MEDIUM, 7: MEDIUM->MEDIUM, 29: MEDIUM->HARD, 43: HARD->SOFT, 45: SOFT->SOFT"
+839,1039,VET,Ferrari,14,10,4,Autodromo Internazionale del Mugello,Tuscan Grand Prix,2020,30.2,39.0,45.4,2.1,False,"7: MEDIUM->MEDIUM, 1: SOFT->MEDIUM, 8: MEDIUM->SOFT, 28: SOFT->HARD, 43: HARD->SOFT, 45: SOFT->SOFT"
+840,1040,ALB,Red Bull,15,10,5,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,"1: SOFT->HARD, 27: HARD->MEDIUM"
+841,1040,BOT,Mercedes,3,1,2,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,26: MEDIUM->HARD
+842,1040,GAS,AlphaTauri,9,9,0,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,"18: SOFT->HARD, 42: HARD->MEDIUM"
+843,1040,GIO,Alfa Romeo,17,11,6,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,16: MEDIUM->HARD
+844,1040,GRO,Haas F1 Team,16,17,-1,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,"17: MEDIUM->HARD, 42: HARD->MEDIUM"
+845,1040,HAM,Mercedes,1,3,-2,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,16: SOFT->HARD
+846,1040,KVY,AlphaTauri,11,8,3,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,30: HARD->MEDIUM
+847,1040,LAT,Williams,20,16,4,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,17: MEDIUM->HARD
+848,1040,LEC,Ferrari,10,6,4,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,28: MEDIUM->HARD
+849,1040,MAG,Haas F1 Team,18,12,6,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,19: MEDIUM->HARD
+850,1040,NOR,McLaren,8,15,-7,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,"1: SOFT->HARD, 47: HARD->MEDIUM"
+851,1040,OCO,Renault,7,7,0,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,18: SOFT->HARD
+852,1040,PER,Racing Point,4,4,0,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,20: SOFT->HARD
+853,1040,RAI,Alfa Romeo,19,14,5,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,35: HARD->MEDIUM
+854,1040,RIC,Renault,5,5,0,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,15: SOFT->HARD
+855,1040,RUS,Williams,13,18,-5,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,"1: MEDIUM->HARD, 14: HARD->MEDIUM, 50: MEDIUM->SOFT"
+856,1040,VER,Red Bull,2,2,0,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,25: MEDIUM->HARD
+857,1040,VET,Ferrari,14,13,1,Sochi Autodrom,Russian Grand Prix,2020,28.5,52.1,41.3,2.7,False,30: MEDIUM->HARD
+873,1042,ALB,Red Bull,6,12,-6,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,"19: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+874,1042,BOT,Mercedes,2,2,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,41: MEDIUM->HARD
+875,1042,GAS,AlphaTauri,9,5,4,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,28: SOFT->MEDIUM
+876,1042,GIO,Alfa Romeo,17,15,2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,28: MEDIUM->HARD
+877,1042,GRO,Haas F1 Team,18,17,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,26: MEDIUM->HARD
+878,1042,HAM,Mercedes,1,1,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,40: MEDIUM->HARD
+879,1042,KVY,AlphaTauri,13,19,-6,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,"25: MEDIUM->HARD, 55: HARD->SOFT"
+880,1042,LAT,Williams,20,18,2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,24: MEDIUM->HARD
+881,1042,LEC,Ferrari,4,4,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,34: MEDIUM->HARD
+882,1042,MAG,Haas F1 Team,19,16,3,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,31: HARD->MEDIUM
+883,1042,NOR,McLaren,8,13,-5,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,"18: SOFT->HARD, 43: HARD->MEDIUM"
+884,1042,OCO,Renault,11,8,3,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,53: MEDIUM->SOFT
+885,1042,PER,Racing Point,5,7,-2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,"1: SOFT->MEDIUM, 45: MEDIUM->SOFT"
+886,1042,RAI,Alfa Romeo,16,11,5,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,11: SOFT->MEDIUM
+887,1042,RIC,Renault,10,9,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,14: SOFT->MEDIUM
+888,1042,RUS,Williams,14,14,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,36: MEDIUM->HARD
+889,1042,SAI,McLaren,7,6,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,26: SOFT->MEDIUM
+890,1042,VER,Red Bull,3,3,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,23: SOFT->MEDIUM
+891,1042,VET,Ferrari,15,10,5,Autódromo Internacional do Algarve,Portuguese Grand Prix,2020,20.7,62.9,25.8,2.2,False,27: MEDIUM->HARD
+892,1043,ALB,Red Bull,6,15,-9,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"14: SOFT->HARD, 59: HARD->SOFT"
+893,1043,BOT,Mercedes,1,2,-1,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"19: MEDIUM->HARD, 51: HARD->SOFT"
+894,1043,GIO,Alfa Romeo,20,10,10,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,10: SOFT->MEDIUM
+895,1043,GRO,Haas F1 Team,16,14,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"9: MEDIUM->HARD, 50: HARD->SOFT"
+896,1043,HAM,Mercedes,2,1,1,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"30: MEDIUM->HARD, 52: HARD->SOFT"
+897,1043,KVY,AlphaTauri,8,4,4,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"14: SOFT->HARD, 51: HARD->SOFT"
+898,1043,LAT,Williams,19,11,8,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,34: MEDIUM->HARD
+899,1043,LEC,Ferrari,7,5,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,13: SOFT->HARD
+900,1043,NOR,McLaren,9,8,1,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"13: SOFT->MEDIUM, 53: MEDIUM->SOFT"
+901,1043,PER,Racing Point,11,6,5,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"27: MEDIUM->HARD, 51: HARD->SOFT"
+902,1043,RAI,Alfa Romeo,18,9,9,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,48: MEDIUM->SOFT
+903,1043,RIC,Renault,5,3,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,14: SOFT->HARD
+904,1043,SAI,McLaren,10,7,3,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"17: SOFT->MEDIUM, 51: MEDIUM->SOFT"
+905,1043,STR,Racing Point,15,13,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"1: MEDIUM->HARD, 29: HARD->MEDIUM, 52: MEDIUM->SOFT"
+906,1043,VET,Ferrari,14,12,2,Autodromo Enzo e Dino Ferrari,Emilia Romagna Grand Prix,2020,16.9,74.2,23.5,0.5,False,"39: MEDIUM->HARD, 51: HARD->SOFT"
+924,1045,ALB,Red Bull,4,3,1,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 19: MEDIUM->MEDIUM, 34: MEDIUM->HARD"
+925,1045,BOT,Mercedes,2,8,-6,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 4: MEDIUM->HARD, 25: HARD->MEDIUM, 38: MEDIUM->MEDIUM"
+926,1045,GAS,AlphaTauri,8,6,2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->HARD, 25: HARD->HARD"
+927,1045,GIO,Alfa Romeo,16,16,0,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 20: MEDIUM->HARD, 53: HARD->SOFT"
+928,1045,HAM,Mercedes,1,1,0,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 19: MEDIUM->MEDIUM, 35: MEDIUM->HARD"
+929,1045,KVY,AlphaTauri,10,11,-1,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->SOFT, 17: SOFT->HARD, 33: HARD->HARD"
+930,1045,LAT,Williams,20,14,6,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: HARD->MEDIUM, 21: MEDIUM->MEDIUM, 37: MEDIUM->HARD"
+931,1045,LEC,Ferrari,12,10,2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: HARD->MEDIUM, 23: MEDIUM->HARD, 40: HARD->HARD"
+932,1045,MAG,Haas F1 Team,18,17,1,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->HARD, 3: HARD->HARD, 27: HARD->HARD, 53: HARD->SOFT"
+933,1045,NOR,McLaren,9,4,5,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 18: MEDIUM->MEDIUM, 38: MEDIUM->HARD"
+934,1045,OCO,Renault,7,9,-2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 17: MEDIUM->MEDIUM, 34: MEDIUM->HARD"
+935,1045,PER,Racing Point,5,18,-13,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 20: MEDIUM->HARD, 36: HARD->HARD"
+936,1045,RAI,Alfa Romeo,17,15,2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 17: MEDIUM->HARD, 40: HARD->MEDIUM"
+937,1045,RIC,Renault,6,7,-1,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 16: MEDIUM->HARD, 36: HARD->UNKNOWN"
+938,1045,RUS,Williams,14,12,2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 20: MEDIUM->HARD, 39: HARD->MEDIUM"
+939,1045,SAI,McLaren,15,5,10,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: SOFT->SOFT, 21: SOFT->MEDIUM, 39: MEDIUM->HARD"
+940,1045,VER,Red Bull,3,2,1,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->MEDIUM, 20: MEDIUM->HARD, 34: HARD->HARD, 46: HARD->MEDIUM"
+941,1045,VET,Ferrari,11,13,-2,Bahrain International Circuit,Bahrain Grand Prix,2020,26.5,60.9,29.9,0.5,False,"1: MEDIUM->HARD, 20: HARD->MEDIUM, 39: MEDIUM->HARD"
+942,1046,AIT,Williams,17,16,1,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"31: MEDIUM->HARD, 54: HARD->MEDIUM, 59: MEDIUM->SOFT"
+943,1046,ALB,Red Bull,12,6,6,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"47: MEDIUM->HARD, 62: HARD->SOFT"
+944,1046,BOT,Mercedes,1,8,-7,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"49: MEDIUM->HARD, 62: HARD->HARD"
+945,1046,FIT,Haas F1 Team,20,17,3,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"31: SOFT->MEDIUM, 53: MEDIUM->SOFT, 63: SOFT->SOFT"
+946,1046,GAS,AlphaTauri,9,11,-2,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"28: SOFT->MEDIUM, 51: MEDIUM->HARD"
+947,1046,GIO,Alfa Romeo,14,13,1,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"26: MEDIUM->HARD, 54: HARD->MEDIUM"
+948,1046,KVY,AlphaTauri,6,7,-1,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"27: SOFT->MEDIUM, 53: MEDIUM->HARD"
+949,1046,MAG,Haas F1 Team,15,15,0,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"26: SOFT->MEDIUM, 54: MEDIUM->SOFT"
+950,1046,NOR,McLaren,19,10,9,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"20: SOFT->MEDIUM, 54: MEDIUM->MEDIUM"
+951,1046,OCO,Renault,11,2,9,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,41: MEDIUM->HARD
+952,1046,PER,Racing Point,5,1,4,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"1: SOFT->MEDIUM, 47: MEDIUM->UNKNOWN"
+953,1046,RAI,Alfa Romeo,18,14,4,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"23: MEDIUM->HARD, 54: HARD->MEDIUM, 62: MEDIUM->SOFT"
+954,1046,RIC,Renault,7,5,2,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"29: SOFT->MEDIUM, 55: MEDIUM->HARD"
+955,1046,RUS,Mercedes,2,9,-7,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"45: MEDIUM->HARD, 62: HARD->MEDIUM, 63: MEDIUM->MEDIUM, 78: MEDIUM->SOFT"
+956,1046,SAI,McLaren,8,4,4,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"28: SOFT->MEDIUM, 55: MEDIUM->MEDIUM"
+957,1046,STR,Racing Point,10,3,7,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,42: SOFT->MEDIUM
+958,1046,VET,Ferrari,13,12,1,Bahrain International Circuit,Sakhir Grand Prix,2020,22.0,57.7,24.7,2.1,False,"31: MEDIUM->HARD, 54: HARD->SOFT, 63: SOFT->SOFT"
+959,1047,ALB,Red Bull,5,4,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: SOFT->HARD
+960,1047,BOT,Mercedes,2,2,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+961,1047,FIT,Haas F1 Team,17,19,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,"10: MEDIUM->HARD, 34: HARD->MEDIUM, 48: MEDIUM->SOFT"
+962,1047,GAS,AlphaTauri,9,8,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: SOFT->HARD
+963,1047,GIO,Alfa Romeo,14,16,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,27: MEDIUM->HARD
+964,1047,HAM,Mercedes,3,3,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+965,1047,KVY,AlphaTauri,7,11,-4,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: SOFT->HARD
+966,1047,LAT,Williams,18,17,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,"11: MEDIUM->HARD, 35: HARD->MEDIUM"
+967,1047,LEC,Ferrari,12,13,-1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,22: MEDIUM->HARD
+968,1047,MAG,Haas F1 Team,20,18,2,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,"31: HARD->MEDIUM, 47: MEDIUM->MEDIUM"
+969,1047,NOR,McLaren,4,5,-1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: SOFT->HARD
+970,1047,OCO,Renault,10,9,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+971,1047,RAI,Alfa Romeo,15,12,3,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->MEDIUM
+972,1047,RIC,Renault,11,7,4,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,39: HARD->MEDIUM
+973,1047,RUS,Williams,16,15,1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+974,1047,SAI,McLaren,6,6,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+975,1047,STR,Racing Point,8,10,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: SOFT->HARD
+976,1047,VER,Red Bull,1,1,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,10: MEDIUM->HARD
+977,1047,VET,Ferrari,13,14,-1,Yas Marina Circuit,Abu Dhabi Grand Prix,2020,23.7,50.7,31.3,1.6,False,35: HARD->MEDIUM
+996,1052,BOT,Mercedes,3,3,0,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"16: MEDIUM->HARD, 30: HARD->HARD, 54: HARD->MEDIUM"
+997,1052,GAS,AlphaTauri,5,17,-12,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"4: MEDIUM->HARD, 19: HARD->MEDIUM, 39: MEDIUM->HARD"
+998,1052,GIO,Alfa Romeo,12,12,0,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"12: MEDIUM->HARD, 30: HARD->MEDIUM"
+999,1052,HAM,Mercedes,2,1,1,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"13: MEDIUM->HARD, 28: HARD->HARD"
+1000,1052,LAT,Williams,17,18,-1,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"14: SOFT->MEDIUM, 32: MEDIUM->MEDIUM"
+1001,1052,LEC,Ferrari,4,6,-2,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"12: SOFT->MEDIUM, 32: MEDIUM->HARD"
+1002,1052,MSC,Haas F1 Team,18,16,2,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"14: MEDIUM->MEDIUM, 33: MEDIUM->HARD"
+1003,1052,NOR,McLaren,7,4,3,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"12: SOFT->MEDIUM, 33: MEDIUM->HARD"
+1004,1052,OCO,Alpine F1 Team,16,13,3,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"13: SOFT->MEDIUM, 31: MEDIUM->HARD"
+1005,1052,PER,Red Bull,0,5,-5,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"2: MEDIUM->MEDIUM, 19: MEDIUM->HARD, 38: HARD->MEDIUM"
+1006,1052,RAI,Alfa Romeo,14,11,3,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"13: MEDIUM->HARD, 29: HARD->MEDIUM"
+1007,1052,RIC,McLaren,6,7,-1,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"13: SOFT->MEDIUM, 32: MEDIUM->HARD"
+1008,1052,RUS,Williams,15,14,1,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"13: SOFT->MEDIUM, 36: MEDIUM->MEDIUM"
+1009,1052,SAI,Ferrari,8,8,0,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"15: SOFT->MEDIUM, 37: MEDIUM->HARD"
+1010,1052,STR,Aston Martin,10,10,0,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"12: SOFT->MEDIUM, 28: MEDIUM->UNKNOWN"
+1011,1052,TSU,AlphaTauri,13,9,4,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"15: MEDIUM->HARD, 33: HARD->HARD"
+1012,1052,VER,Red Bull,1,2,-1,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,"17: MEDIUM->MEDIUM, 39: MEDIUM->HARD"
+1013,1052,VET,Aston Martin,20,15,5,Bahrain International Circuit,Bahrain Grand Prix,2021,20.9,56.4,29.9,1.0,False,24: MEDIUM->HARD
+1031,1054,ALO,Alpine F1 Team,13,8,5,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 40: MEDIUM->HARD"
+1032,1054,BOT,Mercedes,1,3,-2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 36: MEDIUM->HARD, 63: HARD->SOFT"
+1033,1054,GAS,AlphaTauri,9,10,-1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 24: SOFT->MEDIUM"
+1034,1054,GIO,Alfa Romeo,12,12,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 22: MEDIUM->HARD"
+1035,1054,HAM,Mercedes,2,1,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 37: MEDIUM->HARD"
+1036,1054,LAT,Williams,18,18,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 24: MEDIUM->HARD"
+1037,1054,LEC,Ferrari,8,6,2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 25: MEDIUM->HARD"
+1038,1054,MAZ,Haas F1 Team,20,19,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 31: MEDIUM->HARD, 43: HARD->SOFT"
+1039,1054,MSC,Haas F1 Team,19,17,2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 32: MEDIUM->HARD"
+1040,1054,NOR,McLaren,7,5,2,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 22: SOFT->MEDIUM"
+1041,1054,OCO,Alpine F1 Team,6,7,-1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 22: SOFT->HARD"
+1042,1054,PER,Red Bull,4,4,0,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 51: MEDIUM->SOFT"
+1043,1054,RIC,McLaren,16,9,7,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 41: MEDIUM->HARD"
+1044,1054,RUS,Williams,11,16,-5,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 28: MEDIUM->HARD"
+1045,1054,SAI,Ferrari,5,11,-6,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 21: SOFT->MEDIUM"
+1046,1054,STR,Aston Martin,17,14,3,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 39: SOFT->MEDIUM"
+1047,1054,TSU,AlphaTauri,14,15,-1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 21: MEDIUM->HARD"
+1048,1054,VER,Red Bull,3,2,1,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: MEDIUM->MEDIUM, 3: MEDIUM->MEDIUM, 35: MEDIUM->HARD, 64: HARD->SOFT"
+1049,1054,VET,Aston Martin,10,13,-3,Autódromo Internacional do Algarve,Portuguese Grand Prix,2021,19.5,38.7,38.5,0.8,False,"2: SOFT->SOFT, 3: SOFT->SOFT, 22: SOFT->MEDIUM"
+1050,1055,ALO,Alpine F1 Team,10,17,-7,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"21: SOFT->MEDIUM, 61: MEDIUM->SOFT"
+1051,1055,BOT,Mercedes,3,3,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"23: SOFT->MEDIUM, 53: MEDIUM->SOFT"
+1052,1055,GAS,AlphaTauri,12,10,2,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"18: SOFT->MEDIUM, 47: MEDIUM->SOFT"
+1053,1055,GIO,Alfa Romeo,14,15,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"8: SOFT->MEDIUM, 39: MEDIUM->SOFT"
+1054,1055,HAM,Mercedes,1,1,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"28: SOFT->MEDIUM, 42: MEDIUM->MEDIUM"
+1055,1055,LAT,Williams,19,16,3,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"9: SOFT->MEDIUM, 27: MEDIUM->MEDIUM, 50: MEDIUM->SOFT"
+1056,1055,LEC,Ferrari,4,4,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"28: SOFT->MEDIUM, 58: MEDIUM->SOFT"
+1057,1055,MAZ,Haas F1 Team,20,19,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"22: SOFT->MEDIUM, 42: MEDIUM->MEDIUM"
+1058,1055,MSC,Haas F1 Team,18,18,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"23: SOFT->MEDIUM, 50: MEDIUM->MEDIUM"
+1059,1055,NOR,McLaren,9,8,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"23: SOFT->MEDIUM, 51: MEDIUM->SOFT"
+1060,1055,OCO,Alpine F1 Team,5,9,-4,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,23: SOFT->MEDIUM
+1061,1055,PER,Red Bull,8,5,3,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"27: SOFT->MEDIUM, 57: MEDIUM->SOFT"
+1062,1055,RAI,Alfa Romeo,17,12,5,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,37: MEDIUM->SOFT
+1063,1055,RIC,McLaren,7,6,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"25: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+1064,1055,RUS,Williams,15,14,1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"9: SOFT->MEDIUM, 28: MEDIUM->MEDIUM"
+1065,1055,SAI,Ferrari,6,7,-1,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"22: SOFT->MEDIUM, 46: MEDIUM->SOFT"
+1066,1055,STR,Aston Martin,11,11,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"22: SOFT->MEDIUM, 39: MEDIUM->SOFT"
+1067,1055,VER,Red Bull,2,2,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"24: SOFT->MEDIUM, 60: MEDIUM->SOFT"
+1068,1055,VET,Aston Martin,13,13,0,Circuit de Barcelona-Catalunya,Spanish Grand Prix,2021,22.3,55.0,34.1,0.2,False,"21: SOFT->MEDIUM, 38: MEDIUM->SOFT"
+1069,1056,ALO,Alpine F1 Team,17,13,4,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,45: MEDIUM->SOFT
+1070,1056,GAS,AlphaTauri,6,6,0,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,30: SOFT->HARD
+1071,1056,GIO,Alfa Romeo,10,10,0,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,33: SOFT->HARD
+1072,1056,HAM,Mercedes,7,7,0,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,"29: SOFT->HARD, 67: HARD->SOFT"
+1073,1056,LAT,Williams,18,15,3,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,43: MEDIUM->HARD
+1074,1056,MAZ,Haas F1 Team,19,17,2,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,34: SOFT->HARD
+1075,1056,MSC,Haas F1 Team,20,18,2,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,37: SOFT->HARD
+1076,1056,NOR,McLaren,5,3,2,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,30: SOFT->HARD
+1077,1056,OCO,Alpine F1 Team,11,9,2,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,37: SOFT->MEDIUM
+1078,1056,PER,Red Bull,9,4,5,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,35: SOFT->HARD
+1079,1056,RAI,Alfa Romeo,14,11,3,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,43: MEDIUM->HARD
+1080,1056,RIC,McLaren,12,12,0,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,36: MEDIUM->HARD
+1081,1056,RUS,Williams,15,14,1,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,31: MEDIUM->HARD
+1082,1056,SAI,Ferrari,4,2,2,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,32: SOFT->HARD
+1083,1056,STR,Aston Martin,13,8,5,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,58: HARD->SOFT
+1084,1056,TSU,AlphaTauri,16,16,0,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,64: HARD->SOFT
+1085,1056,VER,Red Bull,2,1,1,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,34: SOFT->HARD
+1086,1056,VET,Aston Martin,8,5,3,Circuit de Monaco,Monaco Grand Prix,2021,20.7,61.3,36.9,0.1,False,31: SOFT->HARD
+1087,1057,ALO,Alpine F1 Team,8,6,2,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"7: SOFT->HARD, 34: HARD->SOFT, 47: SOFT->SOFT, 48: SOFT->SOFT"
+1088,1057,BOT,Mercedes,10,12,-2,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"11: SOFT->HARD, 47: HARD->SOFT, 48: SOFT->SOFT"
+1089,1057,GAS,AlphaTauri,4,3,1,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"11: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1090,1057,GIO,Alfa Romeo,20,11,9,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"2: SOFT->HARD, 34: HARD->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1091,1057,HAM,Mercedes,2,15,-13,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"11: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1092,1057,LAT,Williams,16,16,0,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"9: MEDIUM->HARD, 48: HARD->SOFT"
+1093,1057,LEC,Ferrari,1,4,-3,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"9: SOFT->HARD, 47: HARD->UNKNOWN, 48: UNKNOWN->SOFT"
+1094,1057,MAZ,Haas F1 Team,18,14,4,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"9: SOFT->HARD, 34: HARD->SOFT, 44: SOFT->SOFT, 46: SOFT->SOFT, 47: SOFT->SOFT, 48: SOFT->SOFT"
+1095,1057,MSC,Haas F1 Team,17,13,4,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"8: SOFT->HARD, 34: HARD->SOFT, 44: SOFT->SOFT, 47: SOFT->SOFT, 48: SOFT->SOFT"
+1096,1057,NOR,McLaren,9,5,4,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"7: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1097,1057,PER,Red Bull,6,1,5,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"13: SOFT->HARD, 47: HARD->SOFT, 48: SOFT->SOFT"
+1098,1057,RAI,Alfa Romeo,14,10,4,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"13: MEDIUM->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1099,1057,RIC,McLaren,13,9,4,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"11: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1100,1057,SAI,Ferrari,5,8,-3,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"10: SOFT->HARD, 47: HARD->UNKNOWN, 48: UNKNOWN->SOFT"
+1101,1057,TSU,AlphaTauri,7,7,0,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"9: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1102,1057,VET,Aston Martin,11,2,9,Baku City Circuit,Azerbaijan Grand Prix,2021,25.4,48.0,43.9,0.3,False,"18: SOFT->HARD, 47: HARD->HARD, 48: HARD->SOFT"
+1103,1058,ALO,Alpine F1 Team,8,9,-1,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,27: SOFT->HARD
+1104,1058,BOT,Mercedes,5,3,2,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,27: MEDIUM->HARD
+1105,1058,GIO,Alfa Romeo,15,15,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,23: MEDIUM->HARD
+1106,1058,HAM,Mercedes,2,2,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,"28: MEDIUM->HARD, 69: HARD->SOFT"
+1107,1058,LAT,Williams,16,17,-1,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,"1: MEDIUM->SOFT, 25: SOFT->HARD"
+1108,1058,LEC,Ferrari,7,7,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,"1: SOFT->MEDIUM, 37: HARD->MEDIUM"
+1109,1058,MAZ,Haas F1 Team,20,18,2,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,21: MEDIUM->HARD
+1110,1058,MSC,Haas F1 Team,19,16,3,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,33: MEDIUM->HARD
+1111,1058,NOR,McLaren,3,5,-2,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,31: SOFT->HARD
+1112,1058,OCO,Alpine F1 Team,17,14,3,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,36: MEDIUM->HARD
+1113,1058,PER,Red Bull,4,4,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,"26: SOFT->HARD, 54: HARD->MEDIUM"
+1114,1058,RAI,Alfa Romeo,18,11,7,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,36: HARD->MEDIUM
+1115,1058,RIC,McLaren,13,13,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,41: MEDIUM->HARD
+1116,1058,SAI,Ferrari,12,6,6,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,41: MEDIUM->HARD
+1117,1058,STR,Aston Martin,9,8,1,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,28: SOFT->HARD
+1118,1058,TSU,AlphaTauri,11,10,1,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,26: SOFT->HARD
+1119,1058,VER,Red Bull,1,1,0,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,29: MEDIUM->HARD
+1120,1058,VET,Aston Martin,14,12,2,Red Bull Ring,Styrian Grand Prix,2021,26.6,34.1,54.1,0.4,False,27: MEDIUM->HARD
+1121,1059,ALO,Alpine F1 Team,9,8,1,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,18: MEDIUM->HARD
+1122,1059,BOT,Mercedes,3,4,-1,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,17: MEDIUM->HARD
+1123,1059,GAS,AlphaTauri,6,7,-1,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,17: MEDIUM->HARD
+1124,1059,GIO,Alfa Romeo,13,15,-2,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,28: HARD->MEDIUM
+1125,1059,HAM,Mercedes,2,2,0,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,19: MEDIUM->HARD
+1126,1059,LAT,Williams,16,18,-2,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,18: MEDIUM->HARD
+1127,1059,LEC,Ferrari,7,16,-9,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,"14: MEDIUM->HARD, 38: HARD->MEDIUM"
+1128,1059,MAZ,Haas F1 Team,18,20,-2,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,31: HARD->MEDIUM
+1129,1059,MSC,Haas F1 Team,15,19,-4,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,15: MEDIUM->HARD
+1130,1059,NOR,McLaren,8,5,3,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,24: MEDIUM->HARD
+1131,1059,OCO,Alpine F1 Team,11,14,-3,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,28: HARD->MEDIUM
+1132,1059,PER,Red Bull,4,3,1,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,24: MEDIUM->HARD
+1133,1059,RAI,Alfa Romeo,17,17,0,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,33: HARD->MEDIUM
+1134,1059,RIC,McLaren,10,6,4,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,16: MEDIUM->HARD
+1135,1059,RUS,Williams,14,12,2,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,17: MEDIUM->HARD
+1136,1059,SAI,Ferrari,5,11,-6,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,17: MEDIUM->HARD
+1137,1059,STR,Aston Martin,19,10,9,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,34: HARD->MEDIUM
+1138,1059,TSU,AlphaTauri,0,13,-13,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,15: MEDIUM->HARD
+1139,1059,VER,Red Bull,1,1,0,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,"18: MEDIUM->HARD, 32: HARD->MEDIUM"
+1140,1059,VET,Aston Martin,12,9,3,Circuit Paul Ricard,French Grand Prix,2021,23.9,63.6,30.1,0.8,False,37: HARD->MEDIUM
+1160,1061,ALO,Alpine F1 Team,7,7,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 24: MEDIUM->HARD"
+1161,1061,BOT,Mercedes,3,3,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 22: MEDIUM->HARD"
+1162,1061,GAS,AlphaTauri,11,11,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 28: MEDIUM->HARD, 46: HARD->SOFT"
+1163,1061,GIO,Alfa Romeo,15,13,2,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 23: MEDIUM->HARD"
+1164,1061,HAM,Mercedes,2,1,1,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 27: MEDIUM->HARD"
+1165,1061,LAT,Williams,17,14,3,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 19: MEDIUM->HARD"
+1166,1061,LEC,Ferrari,4,2,2,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 29: MEDIUM->HARD"
+1167,1061,MAZ,Haas F1 Team,19,17,2,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 25: MEDIUM->HARD"
+1168,1061,MSC,Haas F1 Team,18,18,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 24: MEDIUM->HARD"
+1169,1061,NOR,McLaren,5,4,1,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 21: MEDIUM->HARD"
+1170,1061,OCO,Alpine F1 Team,9,9,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 19: MEDIUM->HARD"
+1171,1061,PER,Red Bull,0,16,-16,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: HARD->HARD, 18: HARD->MEDIUM, 38: MEDIUM->MEDIUM, 48: MEDIUM->SOFT"
+1172,1061,RAI,Alfa Romeo,13,15,-2,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 18: MEDIUM->HARD"
+1173,1061,RIC,McLaren,6,5,1,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 20: MEDIUM->HARD"
+1174,1061,RUS,Williams,12,12,0,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 18: MEDIUM->HARD"
+1175,1061,SAI,Ferrari,10,6,4,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 28: MEDIUM->HARD"
+1176,1061,STR,Aston Martin,14,8,6,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 23: MEDIUM->HARD"
+1177,1061,TSU,AlphaTauri,16,10,6,Silverstone Circuit,British Grand Prix,2021,28.4,41.3,51.1,0.3,False,"2: MEDIUM->MEDIUM, 30: MEDIUM->HARD"
+1191,1064,ALO,Alpine F1 Team,9,6,3,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,33: SOFT->MEDIUM
+1192,1064,BOT,Mercedes,3,3,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"31: SOFT->MEDIUM, 67: MEDIUM->SOFT"
+1193,1064,GAS,AlphaTauri,4,4,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,24: SOFT->MEDIUM
+1194,1064,GIO,Alfa Romeo,7,14,-7,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"27: SOFT->MEDIUM, 33: MEDIUM->HARD"
+1195,1064,HAM,Mercedes,2,2,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"20: SOFT->MEDIUM, 39: MEDIUM->MEDIUM, 70: MEDIUM->SOFT"
+1196,1064,KUB,Alfa Romeo,16,15,1,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,40: MEDIUM->HARD
+1197,1064,LAT,Williams,0,16,-16,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,23: MEDIUM->HARD
+1198,1064,LEC,Ferrari,5,5,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,34: SOFT->HARD
+1199,1064,MSC,Haas F1 Team,17,18,-1,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"4: SOFT->HARD, 30: HARD->MEDIUM"
+1200,1064,NOR,McLaren,13,10,3,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,42: MEDIUM->HARD
+1201,1064,OCO,Alpine F1 Team,8,9,-1,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,31: SOFT->MEDIUM
+1202,1064,PER,Red Bull,0,8,-8,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"8: HARD->MEDIUM, 47: MEDIUM->SOFT"
+1203,1064,RIC,McLaren,10,11,-1,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,30: SOFT->HARD
+1204,1064,RUS,Williams,11,17,-6,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"27: MEDIUM->HARD, 68: HARD->SOFT"
+1205,1064,SAI,Ferrari,6,7,-1,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,31: SOFT->HARD
+1206,1064,STR,Aston Martin,12,12,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,27: SOFT->HARD
+1207,1064,VER,Red Bull,1,1,0,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"21: SOFT->MEDIUM, 40: MEDIUM->HARD"
+1208,1064,VET,Aston Martin,15,13,2,Circuit Park Zandvoort,Dutch Grand Prix,2021,20.4,56.6,34.8,0.9,False,"10: SOFT->HARD, 44: HARD->MEDIUM"
+1209,1065,ALO,Alpine F1 Team,10,8,2,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,25: MEDIUM->HARD
+1210,1065,BOT,Mercedes,19,3,16,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: HARD->MEDIUM
+1211,1065,GIO,Alfa Romeo,7,13,-6,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,"1: MEDIUM->HARD, 25: HARD->MEDIUM"
+1212,1065,KUB,Alfa Romeo,17,14,3,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: HARD->MEDIUM
+1213,1065,LAT,Williams,13,11,2,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,23: MEDIUM->HARD
+1214,1065,LEC,Ferrari,5,4,1,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: MEDIUM->HARD
+1215,1065,MSC,Haas F1 Team,18,15,3,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,23: MEDIUM->HARD
+1216,1065,NOR,McLaren,3,2,1,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,24: MEDIUM->HARD
+1217,1065,OCO,Alpine F1 Team,12,10,2,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: MEDIUM->HARD
+1218,1065,PER,Red Bull,8,5,3,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: MEDIUM->HARD
+1219,1065,RIC,McLaren,2,1,1,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,22: MEDIUM->HARD
+1220,1065,RUS,Williams,14,9,5,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: MEDIUM->HARD
+1221,1065,SAI,Ferrari,6,6,0,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,26: MEDIUM->HARD
+1222,1065,STR,Aston Martin,9,7,2,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,25: MEDIUM->HARD
+1223,1065,VET,Aston Martin,11,12,-1,Autodromo Nazionale di Monza,Italian Grand Prix,2021,28.3,38.7,44.6,0.3,False,"22: MEDIUM->HARD, 26: HARD->MEDIUM"
+1243,1067,ALO,Alpine F1 Team,5,16,-11,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,30: INTERMEDIATE->INTERMEDIATE
+1244,1067,BOT,Mercedes,1,1,0,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,37: INTERMEDIATE->UNKNOWN
+1245,1067,GAS,AlphaTauri,4,6,-2,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,39: INTERMEDIATE->INTERMEDIATE
+1246,1067,GIO,Alfa Romeo,16,11,5,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,40: INTERMEDIATE->INTERMEDIATE
+1247,1067,HAM,Mercedes,11,5,6,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,50: INTERMEDIATE->INTERMEDIATE
+1248,1067,LAT,Williams,15,17,-2,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,34: INTERMEDIATE->INTERMEDIATE
+1249,1067,LEC,Ferrari,3,4,-1,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,47: INTERMEDIATE->INTERMEDIATE
+1250,1067,MAZ,Haas F1 Team,18,20,-2,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,35: INTERMEDIATE->INTERMEDIATE
+1251,1067,MSC,Haas F1 Team,14,19,-5,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,39: INTERMEDIATE->INTERMEDIATE
+1252,1067,NOR,McLaren,7,7,0,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,34: INTERMEDIATE->INTERMEDIATE
+1253,1067,PER,Red Bull,6,3,3,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,37: INTERMEDIATE->INTERMEDIATE
+1254,1067,RAI,Alfa Romeo,17,12,5,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,37: INTERMEDIATE->INTERMEDIATE
+1255,1067,RIC,McLaren,20,13,7,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,21: INTERMEDIATE->INTERMEDIATE
+1256,1067,RUS,Williams,13,15,-2,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,35: INTERMEDIATE->INTERMEDIATE
+1257,1067,SAI,Ferrari,19,8,11,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,36: INTERMEDIATE->INTERMEDIATE
+1258,1067,STR,Aston Martin,8,9,-1,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,39: INTERMEDIATE->INTERMEDIATE
+1259,1067,TSU,AlphaTauri,9,14,-5,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,35: INTERMEDIATE->INTERMEDIATE
+1260,1067,VER,Red Bull,2,2,0,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,36: INTERMEDIATE->INTERMEDIATE
+1261,1067,VET,Aston Martin,10,18,-8,Istanbul Park,Turkish Grand Prix,2021,15.5,95.5,18.2,0.7,False,"36: INTERMEDIATE->MEDIUM, 37: MEDIUM->INTERMEDIATE"
+1262,1069,BOT,Mercedes,9,6,3,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"15: MEDIUM->HARD, 34: HARD->HARD"
+1263,1069,GIO,Alfa Romeo,12,11,1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"8: MEDIUM->MEDIUM, 26: MEDIUM->HARD"
+1264,1069,HAM,Mercedes,2,2,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"13: MEDIUM->HARD, 37: HARD->HARD"
+1265,1069,LAT,Williams,14,15,-1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"5: MEDIUM->HARD, 25: HARD->HARD"
+1266,1069,LEC,Ferrari,4,4,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"12: MEDIUM->HARD, 32: HARD->HARD"
+1267,1069,MAZ,Haas F1 Team,17,17,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"1: MEDIUM->HARD, 24: HARD->MEDIUM, 37: MEDIUM->MEDIUM"
+1268,1069,MSC,Haas F1 Team,16,16,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"11: MEDIUM->HARD, 34: HARD->MEDIUM"
+1269,1069,NOR,McLaren,7,8,-1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"10: MEDIUM->HARD, 30: HARD->HARD"
+1270,1069,PER,Red Bull,3,3,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"12: MEDIUM->MEDIUM, 30: MEDIUM->HARD"
+1271,1069,RAI,Alfa Romeo,15,13,2,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"12: MEDIUM->MEDIUM, 31: MEDIUM->HARD"
+1272,1069,RIC,McLaren,6,5,1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"11: MEDIUM->HARD, 30: HARD->HARD"
+1273,1069,RUS,Williams,20,14,6,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"9: MEDIUM->HARD, 31: HARD->HARD"
+1274,1069,SAI,Ferrari,5,7,-2,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"11: SOFT->HARD, 29: HARD->HARD"
+1275,1069,STR,Aston Martin,13,12,1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"18: MEDIUM->MEDIUM, 34: MEDIUM->HARD"
+1276,1069,TSU,AlphaTauri,10,9,1,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"9: SOFT->HARD, 32: HARD->HARD"
+1277,1069,VER,Red Bull,1,1,0,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"10: MEDIUM->HARD, 29: HARD->HARD"
+1278,1069,VET,Aston Martin,18,10,8,Circuit of the Americas,United States Grand Prix,2021,26.4,72.5,32.7,0.8,False,"17: MEDIUM->MEDIUM, 38: MEDIUM->HARD"
+1279,1070,ALO,Alpine F1 Team,12,9,3,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,39: MEDIUM->HARD
+1280,1070,BOT,Mercedes,1,15,-14,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,"1: MEDIUM->HARD, 40: HARD->MEDIUM, 63: MEDIUM->SOFT, 67: SOFT->SOFT"
+1281,1070,GAS,AlphaTauri,5,4,1,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,31: MEDIUM->HARD
+1282,1070,GIO,Alfa Romeo,11,11,0,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,16: MEDIUM->HARD
+1283,1070,HAM,Mercedes,2,2,0,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,29: MEDIUM->HARD
+1284,1070,LAT,Williams,13,17,-4,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,"11: MEDIUM->HARD, 49: HARD->MEDIUM"
+1285,1070,LEC,Ferrari,8,5,3,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,30: MEDIUM->HARD
+1286,1070,MAZ,Haas F1 Team,15,18,-3,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,"13: MEDIUM->HARD, 58: HARD->MEDIUM"
+1287,1070,NOR,McLaren,18,10,8,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,44: MEDIUM->HARD
+1288,1070,OCO,Alpine F1 Team,19,13,6,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,14: SOFT->HARD
+1289,1070,PER,Red Bull,4,3,1,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,40: MEDIUM->HARD
+1290,1070,RAI,Alfa Romeo,10,8,2,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,32: MEDIUM->HARD
+1291,1070,RIC,McLaren,7,12,-5,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,"1: MEDIUM->HARD, 38: HARD->MEDIUM"
+1292,1070,RUS,Williams,16,16,0,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,15: MEDIUM->HARD
+1293,1070,SAI,Ferrari,6,6,0,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,42: MEDIUM->HARD
+1294,1070,STR,Aston Martin,20,14,6,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,"12: MEDIUM->HARD, 34: HARD->MEDIUM"
+1295,1070,VER,Red Bull,3,1,2,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,33: MEDIUM->HARD
+1296,1070,VET,Aston Martin,9,7,2,Autódromo Hermanos Rodríguez,Mexico City Grand Prix,2021,19.2,36.6,43.9,0.3,False,33: MEDIUM->HARD
+1297,1071,ALO,Alpine F1 Team,12,9,3,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 34: MEDIUM->HARD"
+1298,1071,BOT,Mercedes,1,3,-2,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 30: MEDIUM->HARD, 41: HARD->HARD"
+1299,1071,GAS,AlphaTauri,7,7,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 25: MEDIUM->HARD, 51: HARD->HARD"
+1300,1071,GIO,Alfa Romeo,13,14,-1,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 29: MEDIUM->HARD, 42: HARD->MEDIUM"
+1301,1071,HAM,Mercedes,10,1,9,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 26: MEDIUM->HARD, 43: HARD->HARD"
+1302,1071,LAT,Williams,16,16,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 13: MEDIUM->HARD, 39: HARD->HARD"
+1303,1071,LEC,Ferrari,6,5,1,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->UNKNOWN, 8: UNKNOWN->MEDIUM, 27: MEDIUM->MEDIUM, 52: MEDIUM->HARD"
+1304,1071,MAZ,Haas F1 Team,19,17,2,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->UNKNOWN, 34: MEDIUM->HARD"
+1305,1071,MSC,Haas F1 Team,18,18,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 11: MEDIUM->HARD, 29: HARD->MEDIUM, 61: MEDIUM->MEDIUM"
+1306,1071,NOR,McLaren,5,10,-5,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"1: MEDIUM->HARD, 6: HARD->UNKNOWN, 7: UNKNOWN->HARD, 8: HARD->HARD, 37: HARD->HARD"
+1307,1071,OCO,Alpine F1 Team,8,8,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 30: MEDIUM->HARD"
+1308,1071,PER,Red Bull,4,4,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 28: MEDIUM->HARD, 42: HARD->HARD, 69: HARD->SOFT"
+1309,1071,RAI,Alfa Romeo,0,12,-12,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 28: MEDIUM->HARD, 52: HARD->MEDIUM"
+1310,1071,RUS,Williams,17,13,4,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"6: MEDIUM->HARD, 7: HARD->HARD, 8: HARD->HARD, 41: HARD->HARD"
+1311,1071,SAI,Ferrari,3,6,-3,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 26: MEDIUM->HARD, 53: MEDIUM->HARD"
+1312,1071,TSU,AlphaTauri,15,15,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"4: SOFT->HARD, 6: HARD->HARD, 7: HARD->HARD, 8: HARD->UNKNOWN, 39: HARD->HARD"
+1313,1071,VER,Red Bull,2,2,0,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 27: MEDIUM->HARD, 40: HARD->HARD"
+1314,1071,VET,Aston Martin,9,11,-2,Autódromo José Carlos Pace,São Paulo Grand Prix,2021,23.9,56.7,55.9,0.3,False,"7: MEDIUM->MEDIUM, 8: MEDIUM->MEDIUM, 28: MEDIUM->HARD, 55: HARD->MEDIUM"
+1315,1072,ALO,Alpine F1 Team,13,13,0,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: MEDIUM->HARD, 13: HARD->HARD, 15: HARD->HARD, 44: HARD->SOFT"
+1316,1072,BOT,Mercedes,2,3,-1,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: MEDIUM->HARD, 13: HARD->HARD, 15: HARD->MEDIUM"
+1317,1072,GAS,AlphaTauri,6,6,0,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->HARD"
+1318,1072,GIO,Alfa Romeo,10,9,1,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->HARD"
+1319,1072,HAM,Mercedes,1,1,0,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: MEDIUM->HARD, 13: HARD->HARD, 15: HARD->HARD"
+1320,1072,LAT,Williams,16,12,4,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: MEDIUM->HARD, 13: HARD->MEDIUM, 15: MEDIUM->HARD"
+1321,1072,LEC,Ferrari,4,7,-3,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: MEDIUM->HARD, 13: HARD->HARD, 15: HARD->HARD"
+1322,1072,NOR,McLaren,7,10,-3,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"10: SOFT->HARD, 13: HARD->HARD, 15: HARD->HARD"
+1323,1072,OCO,Alpine F1 Team,9,4,5,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->HARD"
+1324,1072,RAI,Alfa Romeo,12,15,-3,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->HARD, 26: HARD->MEDIUM"
+1325,1072,RIC,McLaren,11,5,6,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: HARD->MEDIUM, 15: MEDIUM->MEDIUM"
+1326,1072,SAI,Ferrari,15,8,7,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: HARD->MEDIUM, 15: MEDIUM->MEDIUM"
+1327,1072,STR,Aston Martin,18,11,7,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"9: MEDIUM->HARD, 13: HARD->HARD, 15: HARD->MEDIUM"
+1328,1072,TSU,AlphaTauri,8,14,-6,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->MEDIUM, 23: MEDIUM->HARD"
+1329,1072,VER,Red Bull,3,2,1,Jeddah Corniche Circuit,Saudi Arabian Grand Prix,2021,28.8,76.0,32.8,0.2,False,"13: MEDIUM->HARD, 15: HARD->MEDIUM"
+1330,1073,ALO,Alpine F1 Team,11,8,3,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,36: HARD->MEDIUM
+1331,1073,BOT,Mercedes,6,6,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,30: MEDIUM->HARD
+1332,1073,GAS,AlphaTauri,12,5,7,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"36: HARD->MEDIUM, 54: MEDIUM->SOFT"
+1333,1073,HAM,Mercedes,2,2,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,14: MEDIUM->HARD
+1334,1073,LEC,Ferrari,7,10,-3,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"15: SOFT->HARD, 35: HARD->MEDIUM"
+1335,1073,MSC,Haas F1 Team,19,14,5,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"10: SOFT->HARD, 52: HARD->SOFT"
+1336,1073,NOR,McLaren,3,7,-4,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"17: SOFT->HARD, 48: HARD->MEDIUM"
+1337,1073,OCO,Alpine F1 Team,9,9,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,15: SOFT->HARD
+1338,1073,PER,Red Bull,4,15,-11,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"21: SOFT->HARD, 36: HARD->HARD, 53: HARD->SOFT"
+1339,1073,RIC,McLaren,10,12,-2,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"18: SOFT->HARD, 52: HARD->SOFT"
+1340,1073,SAI,Ferrari,5,3,2,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,19: SOFT->HARD
+1341,1073,STR,Aston Martin,13,13,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"21: MEDIUM->HARD, 52: HARD->SOFT"
+1342,1073,TSU,AlphaTauri,8,4,4,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"23: MEDIUM->HARD, 53: HARD->SOFT"
+1343,1073,VER,Red Bull,1,1,0,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,"13: SOFT->HARD, 36: HARD->HARD, 53: HARD->SOFT"
+1344,1073,VET,Aston Martin,15,11,4,Yas Marina Circuit,Abu Dhabi Grand Prix,2021,25.6,53.5,33.0,0.7,False,23: MEDIUM->HARD
